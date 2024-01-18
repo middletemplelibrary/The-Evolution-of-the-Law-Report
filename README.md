@@ -5,12 +5,17 @@
        author="Middle Temple Library"
        banner="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/dc540604-bb85-409f-a8cb-54bc2103359b"
        layout="vertical">
+
+##
 Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+
 <param ve-image
-       url=![Year Book example (1)](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d)     
-       ## The Year Books
+       url=![Year Book example (1)](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d)
+       
+## The Year Books
+
 Regular reporting really begun in 1189 with the transcription of plea rolls and into year books. Though regular is rather misleading as the year books do have some irregularity in their printing. Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French. 
 <br><br>
 They contained anonymously written notes and judgments on cases overseen by the King’s Justices in Westminster Hall and on their Eyres. Year books were still not quite as sophisticated the modern report, but they did contain judicial opinion as well as decisions. 
