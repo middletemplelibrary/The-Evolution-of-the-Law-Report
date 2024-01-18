@@ -9,8 +9,19 @@
 Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+       ## The Year Books
+Regular reporting really begun in 1189 with the transcription of plea rolls and into year books. Though regular is rather misleading as the year books do have some irregularity in their printing. Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French. 
+<br><br>
+They contained anonymously written notes and judgments on cases overseen by the King’s Justices in Westminster Hall and on their Eyres. Year books were still not quite as sophisticated the modern report, but they did contain judicial opinion as well as decisions. 
+<br>
+Their purpose was not to offer precedents in subsequent cases, but rather instruction on how best to argue a case. They were also relevant enough that later on law reporters would select certain cases for printing to be published under their own names. 
+<br>
+It is in these publications and subsequent reprints and translations that we can find the Year Book cases. There is speculation that there may still be manuscript Year Books left in private collections, unbeknownst to the owner. 
+<br>
+The Year Books contained information on the proceedings of the case, such as the facts and the judgment, but there was a lack of structure from case-to-case and, unlike the reports of today, no real judicial reasoning contained within. 
+<br>
+This can be seen from the case presented in the Year Book in this display.
 <param ve-image 
        label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames”
        description="Photograph" 
-       license="CC BY-SA 4.0"
-       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0051.JPG">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/134065ce-db39-4910-858a-8319d10c3f08"
