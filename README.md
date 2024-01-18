@@ -7,10 +7,9 @@
        layout="vertical">
        ## 
 Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report
-<param ve-image 
-       label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames”
-       description="Photograph" 
-       href="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/134065ce-db39-4910-858a-8319d10c3f08"
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/134065ce-db39-4910-858a-8319d10c3f08"
+       
        ## The Year Books
 Regular reporting really begun in 1189 with the transcription of plea rolls and into year books. Though regular is rather misleading as the year books do have some irregularity in their printing. Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French. 
 <br><br>
