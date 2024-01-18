@@ -8,8 +8,7 @@
 
 ##
 Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report
-<param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
+
        
 ## The Year Books
 
@@ -24,3 +23,7 @@ It is in these publications and subsequent reprints and translations that we can
 The Year Books contained information on the proceedings of the case, such as the facts and the judgment, but there was a lack of structure from case-to-case and, unlike the reports of today, no real judicial reasoning contained within. 
 <br><br>
 This can be seen from the case presented in the Year Book in this display.
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6"
