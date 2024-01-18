@@ -3,5 +3,6 @@
 <param ve-config 
        title="The Evolution of the Law Report"
        author="Middle Temple Library"
-       banner="![Banner](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/fa749e72-10d1-4dd1-a2cf-58e6eb3d53ab) 
+       banner="![Banner](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/cb703d18-6116-468b-822f-2759cb85bc63)
+
        layout="vertical">
