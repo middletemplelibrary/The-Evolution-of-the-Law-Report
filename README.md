@@ -3,7 +3,8 @@
 <param ve-config 
        title="The Evolution of the Law Report"
        author="Middle Temple Library"
-       banner="(https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/cb703d18-6116-468b-822f-2759cb85bc63)
+       banner=![Banner](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/dc540604-bb85-409f-a8cb-54bc2103359b)
+
        layout="vertical">
        ## 
 Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report
