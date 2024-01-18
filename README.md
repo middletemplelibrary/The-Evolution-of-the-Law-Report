@@ -26,4 +26,4 @@ This can be seen from the case presented in the Year Book in this display.
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6"
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
