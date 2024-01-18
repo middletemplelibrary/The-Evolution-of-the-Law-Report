@@ -8,6 +8,12 @@
 
 ##
 Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report
+<br><br>
+The law report is a document used daily in the workings of the legal profession. An authoritative piece of work, it both records precedent-setting judicial decisions, as well as informing decisions through the precedents recorded within.
+<br><br>
+Today we know the law report as a structured document that can be presented in court to support pleadings, but the recording of the law hasn’t always been so standardised and consistent. The documentation of law has changed with the law itself and the social landscape.
+<br><br>
+This exhibition seeks to look at those elements in the evolution of law reporting that have brought about the document we recognise today. 
 
        
 ## The Year Books
