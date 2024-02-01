@@ -8,8 +8,7 @@
 
 ##
 Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report.
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+
 
 ## The Law Report
 
