@@ -18,6 +18,12 @@ Today we know the law report as a structured document that can be presented in c
 <br><br>
 This exhibition seeks to look at those elements in the evolution of law reporting that have brought about the document we recognise today. 
 
+## Plea Rolls
+
+The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
+<br><br>
+The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting. 
+
        
 ## The Year Books
 
@@ -36,3 +42,25 @@ This can be seen from the case presented in the Year Book in this display.
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
+ 
+
+       
+## The Privilege to Print
+
+It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was limited to a few.  
+<br><br>
+Despite resistance, the printing press would change this, allowing for wider circulation through reproduction, as well as reprints of popular and respected works. But not everyone could just decide to start putting manuscripts into printed form. In the early days of legal printing, the privilege to print had to be granted. 
+
+## Richard Tottel (d.1594) 
+
+Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Bar. He received two seven year patents and then another for life allowing him to publish legal works. He was the sole publisher of law documents until he died, thanks to a royal patent granted by Elizabeth I. 
+<br><br>
+Upon his death, after a short period of legal battles, the exclusive patent was dissolved and was opened to anyone to publish common law materials. This, of course, led to the increase in the number of law reports published. 
+Despite Tottel’s considerable contribution to legal publishing, he is most well known for his <strong><em>Songes and Sonettes, or Tottel's Miscellany</em></strong>, an anthology of English poetry published in 1557. 
+
+
+## Legalese: the language of the law 
+
+We know what a frustration it is when consulting European cases and not always finding them in English, but going back in history English was not the language of the courts and documentation until the mid-18th century. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the Pleading in English Act 1362 that established all court pleadings should take place in English and the Proceedings in Court of Justice Act 1730 would make English the obligatory language in the courts of England for both pleading of cases and written records.  
+<br><br>
+Though, before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. The year 1641 would see the first law reports printed entirely in English. 
