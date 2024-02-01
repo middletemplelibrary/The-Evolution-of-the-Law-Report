@@ -80,15 +80,13 @@ The legal profession was a learned one, acumen gained through observation and di
 The arrival of the printing press in the 15th century would allow the contents of private manuscripts to become more widely accessible, bringing to light decades old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
 
 ## The Nominates 
-The nominates refers to hundreds of different law reports published from the 16th century, up to 1865. It is likely they are referred by the term nominates based on the Latin for naming/calling (nominitandus), as each report is identifiable by the name of the reporter responsible for it.  
-<br><br>
-The Handbook of English Law Reports, 1913 on our book display provides a catalogue of all nominate reports published, up to 1865. You can browse the nominates on the open shelves, from Bay 35 to Bay 42. Although hundreds of years old, reports from this time are still often still utilised in cases today. 
+The nominates refers to hundreds of different law reports published from the 16th century, up to 1865. It is likely they are referred by the term nominates based on the Latin for naming/calling (nominitandus), as each report is identifiable by the name of the reporter responsible for it.  The Handbook of English Law Reports, 1913 provides a catalogue of all nominate reports published, up to 1865. The nominates sit on the open shelves of Middle Temple Library. Although hundreds of years old, reports from this time are still often still utilised in cases today. 
 
 ## The Big Wigs 
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable, but also exerted an influence on law reporting of the future.  
 
 ## Sir James Dyer (1510-1582) 
-Middle Templar, Judge, Chief  Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like. 
+Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like. 
 
 ## Sir Edmund Plowden (1518-1585) 
 Middle Templar and one time Master Treasurer, Sir Edmund Plowden was a successful lawyer on an upwards path during the reign of Mary I. However, his Catholicism would see the end to career ascension under Elizabeth I, though, the Queen did offer him the role of Lord Chancellor, turned down by Plowden who sensed the potential for a conflict of interests. 
