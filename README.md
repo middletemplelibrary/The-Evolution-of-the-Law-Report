@@ -23,7 +23,6 @@ This exhibition seeks to look at those elements in the evolution of law reportin
 The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
 <br><br>
 The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting. 
-
        
 ## The Year Books
 
@@ -43,8 +42,6 @@ This can be seen from the case presented in the Year Book in this display.
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
  
-
-       
 ## The Privilege to Print
 
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was limited to a few.  
@@ -58,9 +55,73 @@ Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Ba
 Upon his death, after a short period of legal battles, the exclusive patent was dissolved and was opened to anyone to publish common law materials. This, of course, led to the increase in the number of law reports published. 
 Despite Tottel’s considerable contribution to legal publishing, he is most well known for his <strong><em>Songes and Sonettes, or Tottel's Miscellany</em></strong>, an anthology of English poetry published in 1557. 
 
-
 ## Legalese: the language of the law 
 
 We know what a frustration it is when consulting European cases and not always finding them in English, but going back in history English was not the language of the courts and documentation until the mid-18th century. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the Pleading in English Act 1362 that established all court pleadings should take place in English and the Proceedings in Court of Justice Act 1730 would make English the obligatory language in the courts of England for both pleading of cases and written records.  
 <br><br>
 Though, before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. The year 1641 would see the first law reports printed entirely in English. 
+
+## Latin
+
+1066 and the Norman conquest saw not only the introduction of French words into the English language, but also the encoding of English law in both French and Latin, following the legal stylings of the Normans. However, it was Latin that overall enjoyed a more prominent role as it was the language used by royal court for plea rolls and writs.
+<br><br>
+The problem Latin posed was that the language of pleadings and the common person was still in English, creating disparity between the law makers and the people. Ultimately Latin would give way to the lingua franca, but not without leaving an indelible mark. Latin may no longer record the law, but Latin 
+
+## Law-French
+Law French was used in the courts of England from the 13th century, mostly by judges and lawyers. Its roots were in the general usage of French amongst the upper classes, but the Law-French of writing was quite different from the spoken form, a mish mash of French, Latin and Anglo-Saxon. 
+<br><br>
+Its usage would decline over time and by the 14th century it was criticised as an obstacle for those who wished to enter the legal profession. Much like Latin, Law-French would not remain as the choice of language for law reporting, but French influence remains through many words still used in the legal profession.
+
+## Manuscript to Print 
+The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and  decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business. But there was no intention to open up current law awareness. 
+<br><br>
+The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press.
+<br><br>
+The arrival of the printing press in the 15th century would allow the contents of private manuscripts to become more widely accessible, bringing to light decades old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
+
+## The Nominates 
+The nominates refers to hundreds of different law reports published from the 16th century, up to 1865. It is likely they are referred by the term nominates based on the Latin for naming/calling (nominitandus), as each report is identifiable by the name of the reporter responsible for it.  
+<br><br>
+The Handbook of English Law Reports, 1913 on our book display provides a catalogue of all nominate reports published, up to 1865. You can browse the nominates on the open shelves, from Bay 35 to Bay 42. Although hundreds of years old, reports from this time are still often still utilised in cases today. 
+
+## The Big Wigs 
+There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable, but also exerted an influence on law reporting of the future.  
+
+## Sir James Dyer (1510-1582) 
+Middle Templar, Judge, Chief  Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like. 
+
+## Sir Edmund Plowden (1518-1585) 
+Middle Templar and one time Master Treasurer, Sir Edmund Plowden was a successful lawyer on an upwards path during the reign of Mary I. However, his Catholicism would see the end to career ascension under Elizabeth I, though, the Queen did offer him the role of Lord Chancellor, turned down by Plowden who sensed the potential for a conflict of interests. 
+<br><br>
+Plowden brought true innovation to law reporting. He was commended for his accurate law reporting in his compilation of important cases. His volume of law reports broke away from the typical Year Book tradition by prefacing each report with a transcription of the case from the record and proceeding to comment critically on the arguments presented. He was also the first law reporter to have his reports published during his lifetime.
+
+## Sir Edward Coke (1552-1634) 
+Inner Templar, solicitor-general, attorney-general, Chief Justice of the Common Pleas and the King’s Bench, Sir Edward Coke had a fruitful legal career. He published 11 volumes of his law reports, influencing several generations of students. Coke believed that the reporting of cases was the most comprehensible way of teaching the correct rule and reason of law (Coke’s Reports, Part 6, Preface, xvii). 
+<br><br>
+Coke was a respected figure and key player in the development of English law. He conducted several treason trials including those of Sir Walter Raleigh and the Gunpowder Plot conspirators.
+
+## Falling Behind Standard 
+Widespread dissatisfaction with the state of law reporting arose as early as the mid-eighteenth century. Reports were often falsely attributed, anonymous, or printed posthumously, and cases were collected years after they were adjudged, bringing into question their accuracy. In one such instance, the cases in New Benloes date back to 1531, whilst the book was published in 1661, long after his death in 1584. Many reports were also written for personal use and were never intended to be printed and read by an audience. 
+<br><br>
+During this time, there were instances of judges forbidding the citation of certain law reports or publicly criticising law reporters and dubbing them as inaccurate. The mid-seventeenth century also saw a huge increase in the publishing of law reports, partially due to the state of the printing press which John William Wallace dubs the “minister of frauds,” and also due to the dissolvement of the exclusive patent in 1594, both of which significantly increased the quantity of law reports, but not necessarily the quality. Given the reliance of precedent in English common law, ensuring the reports’ authenticity was of the upmost importance. 
+
+## Setting A New Standard 
+This all came to a head in 1864, during a general meeting of the Bar which took place at Lincoln’s Inn. This meeting resulted in the creation of the Incorporated Council of Law Reporting which was to be composed of members of the Inns of Court and the Law Society. 
+<br><br>
+Law reporting was standardised and initially divided into just 11 different series (later becoming 6, following the reorganisation of the courts).  Also laid out were the features of what a law report should contain. There have been minor developments since this time, but it is from this period on that we see the law report of today take its proper shape. 
+
+## Digitisation 
+In the 1990’s the ICLR worked with Context Ltd (later becoming Justis) to digitise archival law reports, called the Electronic Law Reports. The ICLR thereafter began to license to other providers, such as Westlaw and Lexis. Digitisation and the reporting of cases online allowed for a far swifter publication timeline. However, many law reports are kept behind a hefty paywall with these subscription-based databases, highlighting a need for free access. With the introduction of sites like BAILII, WorldLii and Find Case Law via the National Archives, this need was alleviated somewhat, although many cases remain restricted.
+
+## The Future of Law Reporting
+Even with the advent of computing no one could really predict the impact of the Internet on legal research. For a time, information was still restricted and in containment, available on floppy discs or CD drives or the hard drive of the machine. 
+The Internet however did away with those limitations, introducing THE CLOUD. Being able to connect to servers globally would mean access anywhere and anytime. The Internet would do what the printing press did to the law report, revolutionising access and availability. 
+<br><br>
+Law reports, as well as other legal documents can be downloaded from a multitude of resources, both free and subscription. All that is required is a connection. 
+Artificial Intelligence is the next advent. Though AI has actually been around for quite a while, it is now gaining more traction. Its pitfalls are well documented, especially in regards to hallucinated information, but surely the advantages of AI in the legal world are also on the horizon. 
+<br><br>
+What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
+
+ 
+
+
