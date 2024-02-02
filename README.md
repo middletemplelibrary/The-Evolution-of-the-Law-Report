@@ -1,4 +1,4 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+![image](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/ff380f72-6814-4485-b4a0-327f0998278f)<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
        title="The Evolution of the Law Report"
@@ -50,6 +50,9 @@ Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Ba
 <br><br>
 Upon his death, after a short period of legal battles, the exclusive patent was dissolved and was opened to anyone to publish common law materials. This, of course, led to an increase in the number of law reports published. 
 Despite Tottel’s considerable contribution to legal publishing, he is most well known for his <strong><em>Songes and Sonettes, or Tottel's Miscellany</em></strong>, an anthology of English poetry published in 1557. 
+
+![image](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/f7bdad55-dfdd-4be1-afac-5f0472c9cd08)
+
 
 ## Cy ensuont ascuns nouel cases, collectes per le iades tresreuerend iudge, mounsieur Iasques Dyer, chiefe Iustice del common banke. Ore nouelment publies & imprimies, 1592 
 First published in 1585, this volume is also commonly known as Dyer's Cases, or Ascuns Nouel Cases. Written in Law-French, as its colophon records, this volume was printed in the heart of legal London in Fleetestrete within Temple Barre by Richard Tottyll. This volume is from the original bequest by Middle Templar and founder of the Library, Robert Ashley. 
