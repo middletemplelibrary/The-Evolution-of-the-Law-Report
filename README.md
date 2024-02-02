@@ -134,7 +134,13 @@ The nominates refers to hundreds of different law reports published from the 16t
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable but also exerted an influence on law reporting of the future.  
 
 ## Sir James Dyer (1510-1582) 
-Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like. 
+Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like.
+
+<param ve-image
+  label="Portrait of Sir James Dyer. 1669-1713 (circa) ©The Trustees of the British Museum"
+  description="Engraving" 
+  license="CC BY-NC-SA 4.0"
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/f3308fbe-ef11-46d4-8c6c-f4b945d831a0">
 
 ## Un abridgement de touts les cases, reportes per Mounsier Iasques Dyer. Ore novelment imprimee, 1609 
 This 99 page book is an abridgement of Dyer’s Ascuns Novel Cases (see Case 2). Abridgements became popular in the 17th century and were a more systematic way of finding case law about a particular area of law. This is one of two copies from the Library collection, one of which, based on an armorial stamp that has been identified as his coat of arms, was formerly owned by English politician John Scudamore, 1st Viscount Scudamore. 
@@ -147,6 +153,12 @@ Middle Templar and one-time Master Treasurer, Sir Edmund Plowden was a successfu
 <br><br>
 Plowden brought true innovation to law reporting. He was commended for his accurate law reporting in his compilation of important cases. His volume of law reports broke away from the typical Year Book tradition by prefacing each report with a transcription of the case from the record and proceeding to comment critically on the arguments presented. He was also the first law reporter to have his reports published during his lifetime.
 
+<param ve-image
+  label="Portrait of Edmund Plowden. 1750. ©The Trustees of the British Museum"
+  description="Etching, engraving" 
+  license="CC BY-NC-SA 4.0"
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/78093f59-0432-4701-8478-98eb7b32c534">
+
 ## Cy ensuont certeyne cases reportes, per Edmunde Plowden, 1584
 This key law report belonged to Robert Ashley whose annotations you can see within. This volume is another that was imprinted in Fleetestrete within Temple Barre by Richard Tottyll.
 
@@ -154,6 +166,12 @@ This key law report belonged to Robert Ashley whose annotations you can see with
 Inner Templar, solicitor-general, attorney-general, Chief Justice of the Common Pleas and the King’s Bench, Sir Edward Coke had a fruitful legal career. He published 11 volumes of his law reports, influencing several generations of students. Coke believed that the reporting of cases was the most comprehensible way of teaching the correct rule and reason of law (Coke’s Reports, Part 6, Preface, xvii). 
 <br><br>
 Coke was a respected figure and key player in the development of English law. He conducted several treason trials including those of Sir Walter Raleigh and the Gunpowder Plot conspirators.
+
+<param ve-image
+  label="PPortrait of Sir Edward Coke. 1714-1781. ©The Trustees of the British Museum"
+  description="Etching, engraving" 
+  license="CC BY-NC-SA 4.0"
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/886ed9da-0874-4ffa-9425-6e75ff78fd46">
 
 ## Les reports de Edvvard Coke L’attorney general le Roigne, 1602
 This key law report belonged to Robert Ashley. Within the pages, you can see many descriptive annotations written in his hand and possibly also another unknown second hand.
