@@ -52,7 +52,7 @@ Upon his death, after a short period of legal battles, the exclusive patent was 
 Despite Tottel’s considerable contribution to legal publishing, he is most well known for his <strong><em>Songes and Sonettes, or Tottel's Miscellany</em></strong>, an anthology of English poetry published in 1557. 
 
 <param ve-image
-       url="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png">
+       url="https://juncture-digital.org/images/ve-button.png">
 
 ## Cy ensuont ascuns nouel cases, collectes per le iades tresreuerend iudge, mounsieur Iasques Dyer, chiefe Iustice del common banke. Ore nouelment publies & imprimies, 1592 
 First published in 1585, this volume is also commonly known as Dyer's Cases, or Ascuns Nouel Cases. Written in Law-French, as its colophon records, this volume was printed in the heart of legal London in Fleetestrete within Temple Barre by Richard Tottyll. This volume is from the original bequest by Middle Templar and founder of the Library, Robert Ashley. 
