@@ -13,15 +13,15 @@ Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Repo
 ## The Law Report
 
 The law report is a document used daily in the workings of the legal profession. An authoritative piece of work, it both records precedent-setting judicial decisions, as well as informing decisions through the precedents recorded within.
-<br><br>
+<br>
 Today we know the law report as a structured document that can be presented in court to support pleadings, but the recording of the law hasn’t always been so standardised and consistent. The documentation of law has changed with the law itself and the social landscape.
-<br><br>
+<br>
 This exhibition seeks to look at those elements in the evolution of law reporting that have brought about the document we recognise today. 
 
 ## Plea Rolls
 
 The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
-<br><br>
+<br>
 The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting. 
        
 ## The Year Books
