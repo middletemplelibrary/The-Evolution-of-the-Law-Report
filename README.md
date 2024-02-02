@@ -39,6 +39,31 @@ This can be seen from the case presented in the Year Book in this display.
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
+
+## Manuscript to Print 
+The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and  decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business. But there was no intention to open up current law awareness. 
+<br><br>
+The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press.
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7a03cf84-aa2c-4aa5-8888-e51402bcd7f7"
+
+<br><br>       
+The arrival of the printing press in the 15th century would allow the contents of private manuscripts to become more widely accessible, bringing to light decades-old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
+
+## Reports in Bancus Regis, 43 Eliz.-10 Jac., 1612-1664?
+From the George Treby collection, this manuscript features cases from the King's Bench. Written mainly in Law-French, the manuscript also contains an index and list of rolls for special cases and the last few leaves include cases with counsel's opinions.
+
+## Reports of cases adjudged in the Court of King's Bench: from the first to the sixth of King William and Queen Mary, 1694 
+This 17th century manuscript is authored by Sir Giles Eyre and includes an index for ease of referring back to the contents.
+
+## Reports of adjudged cases in the Courts of Chancery, King's Bench, Common Pleas and Exchequer: 4 Geo II-29/30 Geo II, 1730-1757
+This 18th century manuscript is from the Gibbs collection. The author has laid out the legal terms and recorded the cases in neat digest format. There is an index at the back of the volume. 
+The QR code will take you to an online index of cases, as constructed by former intern Jack Alphey. 
+
+## Notes of cases heard at the Old Bailey, 1765-1769
+From the Gibbs collection, this 18th century manuscript records, as the title suggests, notes of cases heard at the Old Bailey. This and other manuscripts in the Library collection are part of an effort to contribute towards a better understanding of legal history through indexing transcription. 
+<br><br>
+Follow the link e to find out more about the cases in this volume in an article by former intern Jack Alphey. 
  
 ## The Privilege to Print
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was limited to a few.  
@@ -46,7 +71,7 @@ It is no surprise to anyone involved with the legal profession that access to le
 Despite resistance, the printing press would change this, allowing for wider circulation through reproduction, as well as reprints of popular and respected works. But not everyone could just decide to start putting manuscripts into printed form. In the early days of legal printing, the privilege to print had to be granted. 
 
 <param ve-image
-  label="View of Temple Bar, c.1690"
+  label="View of Temple Bar, c.1690, ©The Trustees of the British Museum"
   description="Etching and engraving" 
   license="CC BY-NC-SA 4.0"
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/1ae6c509-d179-4cbd-8873-c8efc10b1819">
@@ -98,28 +123,6 @@ This is an example of an early law report printed in Law-French. This particular
 
 ## Un géneral table, à touts les several liures de les reports de, 1618 
 This small volume is a digest of Coke’s Reports, also known simply as Table of Cases. First published in 1606, it proved a popular title and saw further reprints both in Law-French and in English.  
-
-## Manuscript to Print 
-The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and  decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business. But there was no intention to open up current law awareness. 
-<br><br>
-The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press.
-<br><br>
-The arrival of the printing press in the 15th century would allow the contents of private manuscripts to become more widely accessible, bringing to light decades-old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
-
-## Reports in Bancus Regis, 43 Eliz.-10 Jac., 1612-1664?
-From the George Treby collection, this manuscript features cases from the King's Bench. Written mainly in Law-French, the manuscript also contains an index and list of rolls for special cases and the last few leaves include cases with counsel's opinions.
-
-## Reports of cases adjudged in the Court of King's Bench: from the first to the sixth of King William and Queen Mary, 1694 
-This 17th century manuscript is authored by Sir Giles Eyre and includes an index for ease of referring back to the contents.
-
-## Reports of adjudged cases in the Courts of Chancery, King's Bench, Common Pleas and Exchequer: 4 Geo II-29/30 Geo II, 1730-1757
-This 18th century manuscript is from the Gibbs collection. The author has laid out the legal terms and recorded the cases in neat digest format. There is an index at the back of the volume. 
-The QR code will take you to an online index of cases, as constructed by former intern Jack Alphey. 
-
-## Notes of cases heard at the Old Bailey, 1765-1769
-From the Gibbs collection, this 18th century manuscript records, as the title suggests, notes of cases heard at the Old Bailey. This and other manuscripts in the Library collection are part of an effort to contribute towards a better understanding of legal history through indexing transcription. 
-<br><br>
-Follow the link e to find out more about the cases in this volume in an article by former intern Jack Alphey. 
 
 ## The Nominates 
 The nominates refers to hundreds of different law reports published from the 16th century, up to 1865. It is likely they are referred by the term nominates based on the Latin for naming/calling (nominitandus), as each report is identifiable by the name of the reporter responsible for it.  The Handbook of English Law Reports, 1913 provides a catalogue of all nominate reports published, up to 1865. The nominates sit on the open shelves of Middle Temple Library. Although hundreds of years old, reports from this time are still often still utilised in cases today. 
