@@ -48,7 +48,7 @@ Despite resistance, the printing press would change this, allowing for wider cir
 <param ve-image
   label="View of Temple Bar, c.1690"
   description="Etching and engraving" 
-  license="©The Trustees of the British Museum"
+  license="CC BY-NC-SA 4.0"
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/1ae6c509-d179-4cbd-8873-c8efc10b1819">
       
 ## Richard Tottel (d.1594) 
