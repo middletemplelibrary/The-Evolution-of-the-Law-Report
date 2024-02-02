@@ -45,6 +45,9 @@ It is no surprise to anyone involved with the legal profession that access to le
 <br><br>
 Despite resistance, the printing press would change this, allowing for wider circulation through reproduction, as well as reprints of popular and respected works. But not everyone could just decide to start putting manuscripts into printed form. In the early days of legal printing, the privilege to print had to be granted. 
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/1ae6c509-d179-4cbd-8873-c8efc10b1819">
+
 ## Richard Tottel (d.1594) 
 Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Bar. He received two seven-year patents and then another for life allowing him to publish legal works. He was the sole publisher of law documents until he died, thanks to a royal patent granted by Elizabeth I. 
 <br><br>
