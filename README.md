@@ -186,7 +186,7 @@ The base structure of a law report has changed significantly over the centuries.
 <br><br>
 From 1592, to 1849, to 2021, we see several changes in reporting styles. The earlier reports immediately started with the facts and judgment of the case, whereas modern reports provide a summary before detailing more in-depth reporting.    
 
-<param ve-compare curtain url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8438f722-4b1c-4e7e-a7e7-254a51e72fad" label="Report descr" description="photograph">
+<param ve-compare curtain url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/296e67e1-9b4b-4fb6-a724-28d412d7db47" label="Report descr" description="photograph">
 <param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/0dcdd950-6b2f-4ae8-84f4-adffec5109d6" label="Report descr" description="photograph">
 <param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2a9e27b9-9753-471f-abef-aea45a6f1a11" label="Report descr" description="photograph">
 
