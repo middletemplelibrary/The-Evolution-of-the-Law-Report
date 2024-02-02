@@ -68,14 +68,14 @@ We know what a frustration it is when consulting European cases and not always f
 <br><br>
 Though, before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. The year 1641 would see the first law reports printed entirely in English. 
 
-<param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/6a098820-816f-4686-98c1-5011871b96dc">
-
 ## Latin
 1066 and the Norman conquest saw not only the introduction of French words into the English language but also the encoding of English law in both French and Latin, following the legal stylings of the Normans. However, it was Latin that overall enjoyed a more prominent role as it was the language used by the royal court for plea rolls and writs.
 <br><br>
 The problem Latin posed was that the language of pleadings and the common person was still in English, creating a disparity between the lawmakers and the people. Ultimately Latin would give way to the lingua franca, but not without leaving an indelible mark. Latin may no longer record the law, but Latin 
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b6a0a4ab-1e0c-4b69-9874-2b290313e7a4">
+       
 ## Law-French
 Law French was used in the courts of England from the 13th century, mostly by judges and lawyers. Its roots were in the general usage of French amongst the upper classes, but the Law-French of writing was quite different from the spoken form, a mish-mash of French, Latin, and Anglo-Saxon. 
 <br><br>
@@ -111,7 +111,6 @@ The QR code will take you to an online index of cases, as constructed by former 
 From the Gibbs collection, this 18th century manuscript records, as the title suggests, notes of cases heard at the Old Bailey. This and other manuscripts in the Library collection are part of an effort to contribute towards a better understanding of legal history through indexing transcription. 
 <br><br>
 Follow the link e to find out more about the cases in this volume in an article by former intern Jack Alphey. 
-
 
 ## The Nominates 
 The nominates refers to hundreds of different law reports published from the 16th century, up to 1865. It is likely they are referred by the term nominates based on the Latin for naming/calling (nominitandus), as each report is identifiable by the name of the reporter responsible for it.  The Handbook of English Law Reports, 1913 provides a catalogue of all nominate reports published, up to 1865. The nominates sit on the open shelves of Middle Temple Library. Although hundreds of years old, reports from this time are still often still utilised in cases today. 
