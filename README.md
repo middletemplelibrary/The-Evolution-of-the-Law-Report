@@ -46,7 +46,8 @@ It is no surprise to anyone involved with the legal profession that access to le
 Despite resistance, the printing press would change this, allowing for wider circulation through reproduction, as well as reprints of popular and respected works. But not everyone could just decide to start putting manuscripts into printed form. In the early days of legal printing, the privilege to print had to be granted. 
 
 <param ve-image
-  label="View of Temple Bar, c.1690”
+  label="View of Temple Bar, c.1690"
+  description="Etching and engraving" 
   license="©The Trustees of the British Museum"
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/1ae6c509-d179-4cbd-8873-c8efc10b1819">
       
