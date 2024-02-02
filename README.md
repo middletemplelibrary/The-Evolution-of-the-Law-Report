@@ -48,7 +48,14 @@ The legal profession was a learned one, acumen gained through observation and di
 The arrival of the printing press in the 15th century would allow the contents of private manuscripts to become more widely accessible, bringing to light decades-old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
 
 <param ve-image
+  label="Printers working at a printing press, and setting type, 1568"
+  description="Woodcut by J. Amman. Wellcome Collection" 
+  license="CC0"
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7a03cf84-aa2c-4aa5-8888-e51402bcd7f7">
+
+
+  
+
 
 ## Reports in Bancus Regis, 43 Eliz.-10 Jac., 1612-1664?
 From the George Treby collection, this manuscript features cases from the King's Bench. Written mainly in Law-French, the manuscript also contains an index and list of rolls for special cases and the last few leaves include cases with counsel's opinions.
