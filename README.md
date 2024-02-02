@@ -50,7 +50,7 @@ The arrival of the printing press in the 15th century would allow the contents o
 <param ve-image
   label="Printers working at a printing press, and setting type, 1568"
   description="Woodcut by J. Amman. Wellcome Collection" 
-  license="CC 1.0"
+  license="PDM 1.0"
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7a03cf84-aa2c-4aa5-8888-e51402bcd7f7">
 
 ## Reports in Bancus Regis, 43 Eliz.-10 Jac., 1612-1664?
