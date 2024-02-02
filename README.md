@@ -181,6 +181,15 @@ This volume is a first edition digest of Coke's Les Reports (or The Reports) and
 <br><br>
 Coke’s reputation is such that his reports can simply be referred to as Les Reports, but as learned and respected as he was, he was dismissed from office due to, amongst other charges, errors in The Reports. 
 
+## The Anatomy of a Law Report
+The base structure of a law report has changed significantly over the centuries. Prior to standardisation in 1865, whilst there were many similarities in the field, each reporter had their own take on how to structure a report.
+<br><br>
+From 1592, to 1849, to 2021, we see several changes in reporting styles. The earlier reports immediately started with the facts and judgment of the case, whereas modern reports provide a summary before detailing more in-depth reporting.    
+
+<param ve-compare curtain url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8438f722-4b1c-4e7e-a7e7-254a51e72fad" label="Report descr" description="photograph">
+<param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/0dcdd950-6b2f-4ae8-84f4-adffec5109d6" label="Report descr" description="photograph">
+<param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2a9e27b9-9753-471f-abef-aea45a6f1a11" label="Report descr" description="photograph">
+
 ## Falling Behind Standard 
 Widespread dissatisfaction with the state of law reporting arose as early as the mid-eighteenth century. Reports were often falsely attributed, anonymous, or printed posthumously, and cases were collected years after they were adjudged, bringing into question their accuracy. In one such instance, the cases in New Benloes date back to 1531, whilst the book was published in 1661, long after his death in 1584. Many reports were also written for personal use and were never intended to be printed and read by an audience. 
 <br><br>
