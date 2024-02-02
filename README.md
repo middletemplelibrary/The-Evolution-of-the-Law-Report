@@ -81,6 +81,9 @@ Law French was used in the courts of England from the 13th century, mostly by ju
 <br><br>
 Its usage would decline over time and by the 14th century, it was criticised as an obstacle for those who wished to enter the legal profession. Much like Latin, Law-French would not remain the choice of language for law reporting, but French influence remains through many words still used in the legal profession.
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/225dac38-e9b3-4097-99c9-efb5e6290192">
+
 ## The LAW-French dictionary ... to which is added the Law-Latin dictionary, 1718 
 Written to aid students with deciphering Year Books, this Law French dictionary also has a section for Latin words to help with pleadings. 
 
