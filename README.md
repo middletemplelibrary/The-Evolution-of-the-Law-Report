@@ -119,10 +119,6 @@ Its usage would decline over time and by the 14th century, it was criticised as 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2df944a1-48b8-4bf1-85ab-12bceba2bd18">
 
-       
-
-<param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/225dac38-e9b3-4097-99c9-efb5e6290192">
 
 ## The LAW-French dictionary ... to which is added the Law-Latin dictionary, 1718 
 Written to aid students with deciphering Year Books, this Law French dictionary also has a section for Latin words to help with pleadings. 
