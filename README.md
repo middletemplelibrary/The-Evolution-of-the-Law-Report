@@ -108,12 +108,18 @@ Though, before English became the official language, oftentimes cases that were 
 The problem Latin posed was that the language of pleadings and the common person was still in English, creating a disparity between the lawmakers and the people. Ultimately Latin would give way to the lingua franca, but not without leaving an indelible mark. Latin may no longer record the law, but Latin 
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/225dac38-e9b3-4097-99c9-efb5e6290192">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d3693f26-b516-4b43-a9b5-d9e0f7bceeea">
+
        
 ## Law-French
 Law French was used in the courts of England from the 13th century, mostly by judges and lawyers. Its roots were in the general usage of French amongst the upper classes, but the Law-French of writing was quite different from the spoken form, a mish-mash of French, Latin, and Anglo-Saxon. 
 <br><br>
 Its usage would decline over time and by the 14th century, it was criticised as an obstacle for those who wished to enter the legal profession. Much like Latin, Law-French would not remain the choice of language for law reporting, but French influence remains through many words still used in the legal profession.
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2df944a1-48b8-4bf1-85ab-12bceba2bd18">
+
+       
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/225dac38-e9b3-4097-99c9-efb5e6290192">
