@@ -20,9 +20,13 @@ This exhibition seeks to look at those elements in the evolution of law reportin
 
 ## Plea Rolls
 The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
-<br>
-<br>
-The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting. 
+<br><br>
+The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting.
+<param ve-image 
+       label="Colquhoun, Patrick. 1800. A Treatise on the Commerce and Police of the River Thames”
+       description="Photograph"
+       url="https://www.middletemple.org.uk/sites/default/files/Uploads/IMG_0051.JPG">
+
        
 ## The Year Books
 Regular reporting really began in 1189 with the transcription of plea rolls and into year books. Though regular is rather misleading as the year books do have some irregularity in their printing. Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French. 
