@@ -21,6 +21,7 @@ This exhibition seeks to look at those elements in the evolution of law reportin
 ## Plea Rolls
 The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
 <br>
+<br>
 The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting. 
        
 ## The Year Books
