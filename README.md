@@ -224,5 +224,7 @@ Artificial Intelligence is the next advent. Though AI has been around for quite 
 <br><br>
 What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
 
+
+
 <param ve-iframe
-       src="https://s3.documentcloud.org/documents/23826751/mata-v-avianca-airlines-affidavit-in-opposition-to-motion.pdf)https://s3.documentcloud.org/documents/23826751/mata-v-avianca-airlines-affidavit-in-opposition-to-motion.pdf">
+       src="https://s3.documentcloud.org/documents/23826751/mata-v-avianca-airlines-affidavit-in-opposition-to-motion.pdf">
