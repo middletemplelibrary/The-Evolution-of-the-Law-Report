@@ -223,3 +223,6 @@ Law reports, as well as other legal documents, can be downloaded from a multitud
 Artificial Intelligence is the next advent. Though AI has been around for quite a while, it is now gaining more traction. Its pitfalls are well documented, especially in regards to hallucinated information, but surely the advantages of AI in the legal world are also on the horizon. 
 <br><br>
 What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
+
+<param ve-iframe
+       src="https://www.barstandardsboard.org.uk/resources/blogs/chatgpt-in-the-courts-safely-and-effectively-navigating-ai-in-legal-practice.html">
