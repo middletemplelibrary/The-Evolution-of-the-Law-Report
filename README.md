@@ -82,6 +82,11 @@ This 18th century manuscript is from the Gibbs collection. The author has laid o
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/5ec6505f-ce00-4590-be3a-488d17d8d134">
 
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b92cca60-c2cd-4ff3-aeec-415bbf243574">
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/bcde7971-2ad3-4349-95f9-288acb0791fc">
 
 ## Notes of cases heard at the Old Bailey, 1765-1769
 From the Gibbs collection, this 18th century manuscript records, as the title suggests, notes of cases heard at the Old Bailey. This and other manuscripts in the Library collection are part of an effort to contribute towards a better understanding of legal history through indexing transcription. 
