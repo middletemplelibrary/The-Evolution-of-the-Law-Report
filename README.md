@@ -159,10 +159,7 @@ Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speake
 This 99 page book is an abridgement of Dyer’s Ascuns Novel Cases (see Case 2). Abridgements became popular in the 17th century and were a more systematic way of finding case law about a particular area of law. This is one of two copies from the Library collection, one of which, based on an armorial stamp that has been identified as his coat of arms, was formerly owned by English politician John Scudamore, 1st Viscount Scudamore. 
 
 <param ve-image
-  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b3fc2ad6-c610-404a-a9af-1acdee1dd1c5">
-
-## Un abridgement de tours les cases, reportes per Mounsier Iasques Dyer, 1609
-An abridged version of the full volume of Dyer’s reports, this abridgement belonged to Viscount John Scudamore of Sligo.
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8398beed-4ae7-4af6-8395-ab568be0c5bd">
 
 ## Sir Edmund Plowden (1518-1585) 
 Middle Templar and one-time Master Treasurer, Sir Edmund Plowden was a successful lawyer on an upwards path during the reign of Mary I. However, his Catholicism would see the end to career ascension under Elizabeth I, though, the Queen did offer him the role of Lord Chancellor, turned down by Plowden who sensed the potential for a conflict of interests. 
