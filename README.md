@@ -23,6 +23,7 @@ This exhibition seeks to look at those elements in the evolution of law reportin
 The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
 <br><br>
 The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting.
+
 <param ve-image 
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a728e160-0c4f-461e-9541-94cb50c8d652">
        
@@ -37,16 +38,16 @@ It is in these publications and subsequent reprints and translations that we can
 <br><br>
 The Year Books contained information on the proceedings of the case, such as the facts and the judgment, but there was a lack of structure from case-to-case and, unlike the reports of today, no real judicial reasoning contained within as can be seen in the example on display.
 
-<param ve-image top
+<param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
-<param ve-image top
+<param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
 
 ## Manuscript to Print 
 The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and  decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business. But there was no intention to open up current law awareness. 
 <br><br>
 The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press.
-<br><br>       
+<br><br>
 The arrival of the printing press in the 15th century would allow the contents of private manuscripts to become more widely accessible, bringing to light decades-old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
 
 <param ve-image
@@ -81,10 +82,8 @@ This 18th century manuscript is from the Gibbs collection. The author has laid o
 
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/5ec6505f-ce00-4590-be3a-488d17d8d134">
-
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b92cca60-c2cd-4ff3-aeec-415bbf243574">
-
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/bcde7971-2ad3-4349-95f9-288acb0791fc">
 
@@ -136,7 +135,6 @@ Written in Law-French, this volume contains an alphabetical abridgment of  selec
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/f921039e-a2ad-424d-b593-3a47fb134c64">
-
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/313d8cac-7eff-4bf2-88d9-35045e7781ee">
 
@@ -145,7 +143,6 @@ This volume was another that was imprinted in Fleetestrete within Temple Barre b
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/10734289-cbe5-4881-a804-f6bd78a81897">
-
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8dbc992d-f058-4b43-a80c-c5f336a000ae">
        
@@ -155,9 +152,8 @@ We know what a frustration it is when consulting European cases and not always f
 <br><br>
 Though, before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. The year 1641 would see the first law reports printed entirely in English. 
 
-<param ve-iframe
-  label="Detail of Statute of Pleading, 1362 from website LANGUAGEandLAW.org"
-       url="http://www.languageandlaw.org/TEXTS/STATS/PLEADING.HTM">
+<param ve-image
+       url="http://www.languageandlaw.org/TEXTS/STATS/PLEADING.HTM](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/4ca9307d-ffd8-4b21-8c73-b2ba7e896421)">
 
 ## Latin
 1066 and the Norman conquest saw not only the introduction of French words into the English language but also the encoding of English law in both French and Latin, following the legal stylings of the Normans. However, it was Latin that overall enjoyed a more prominent role as it was the language used by the royal court for plea rolls and writs.
@@ -171,7 +167,6 @@ The problem Latin posed was that the language of pleadings and the common person
 Law French was used in the courts of England from the 13th century, mostly by judges and lawyers. Its roots were in the general usage of French amongst the upper classes, but the Law-French of writing was quite different from the spoken form, a mish-mash of French, Latin, and Anglo-Saxon. 
 <br><br>
 Its usage would decline over time and by the 14th century, it was criticised as an obstacle for those who wished to enter the legal profession. Much like Latin, Law-French would not remain the choice of language for law reporting, but French influence remains through many words still used in the legal profession.
-
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2df944a1-48b8-4bf1-85ab-12bceba2bd18">
