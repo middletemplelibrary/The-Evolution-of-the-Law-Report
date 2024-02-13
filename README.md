@@ -24,7 +24,6 @@ The law report as we know it would not emerge until the 19th century, but record
 The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting.
 <param ve-image 
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a728e160-0c4f-461e-9541-94cb50c8d652">
-
        
 ## The Year Books
 Regular reporting really began in 1189 with the transcription of plea rolls and into year books. Though regular is rather misleading as the year books do have some irregularity in their printing. Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French. 
@@ -102,6 +101,9 @@ Despite Tottel’s considerable contribution to legal publishing, he is most wel
 ## Cy ensuont ascuns nouel cases, collectes per le iades tresreuerend iudge, mounsieur Iasques Dyer, chiefe Iustice del common banke. Ore nouelment publies & imprimies, 1592 
 First published in 1585, this volume is also commonly known as Dyer's Cases, or Ascuns Nouel Cases. Written in Law-French, as its colophon records, this volume was printed in the heart of legal London in Fleetestrete within Temple Barre by Richard Tottyll. This volume is from the original bequest by Middle Templar and founder of the Library, Robert Ashley. 
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c3831ced-3705-4116-a634-61ffde58a17f">
+
 ## The abridgement of the booke of assises, lately perused ouer, and corrected, [and] nowe newely imprinted by Richard Tottill the last day of September. Anno do. 1555. Cum priuilegio
 Written in Law-French, this volume contains an alphabetical abridgment of  selected cases ranging from Edward I through Edward IV. The colophon for this shows it was published in Flite-strete within Temple barre, at the signe of the hande and starre by Richard Tottell. 
 
@@ -120,7 +122,6 @@ The problem Latin posed was that the language of pleadings and the common person
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d3693f26-b516-4b43-a9b5-d9e0f7bceeea">
-
        
 ## Law-French
 Law French was used in the courts of England from the 13th century, mostly by judges and lawyers. Its roots were in the general usage of French amongst the upper classes, but the Law-French of writing was quite different from the spoken form, a mish-mash of French, Latin, and Anglo-Saxon. 
@@ -129,7 +130,6 @@ Its usage would decline over time and by the 14th century, it was criticised as 
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2df944a1-48b8-4bf1-85ab-12bceba2bd18">
-
 
 ## The LAW-French dictionary ... to which is added the Law-Latin dictionary, 1718 
 Written to aid students with deciphering Year Books, this Law French dictionary also has a section for Latin words to help with pleadings. 
