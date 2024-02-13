@@ -57,6 +57,12 @@ The arrival of the printing press in the 15th century would allow the contents o
 ## Reports in Bancus Regis, 43 Eliz.-10 Jac., 1612-1664?
 From the George Treby collection, this manuscript features cases from the King's Bench. Written mainly in Law-French, the manuscript also contains an index and list of rolls for special cases and the last few leaves include cases with counsel's opinions.
 
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c18a90fc-541f-45d9-a962-6388783ab685">
+
+  <param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/25f45514-e4da-4674-9c1a-bf01d980a79a">
+
 ## Reports of cases adjudged in the Court of King's Bench: from the first to the sixth of King William and Queen Mary, 1694 
 This 17th century manuscript is authored by Sir Giles Eyre and includes an index for ease of referring back to the contents.
 
