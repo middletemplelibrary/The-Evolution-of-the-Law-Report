@@ -158,6 +158,9 @@ Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speake
 ## Un abridgement de touts les cases, reportes per Mounsier Iasques Dyer. Ore novelment imprimee, 1609 
 This 99 page book is an abridgement of Dyer’s Ascuns Novel Cases (see Case 2). Abridgements became popular in the 17th century and were a more systematic way of finding case law about a particular area of law. This is one of two copies from the Library collection, one of which, based on an armorial stamp that has been identified as his coat of arms, was formerly owned by English politician John Scudamore, 1st Viscount Scudamore. 
 
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b3fc2ad6-c610-404a-a9af-1acdee1dd1c5">
+
 ## Un abridgement de tours les cases, reportes per Mounsier Iasques Dyer, 1609
 An abridged version of the full volume of Dyer’s reports, this abridgement belonged to Viscount John Scudamore of Sligo.
 
