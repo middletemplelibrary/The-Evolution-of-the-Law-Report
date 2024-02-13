@@ -146,14 +146,13 @@ This volume was another that was imprinted in Fleetestrete within Temple Barre b
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8dbc992d-f058-4b43-a80c-c5f336a000ae">
        
-
 ## Legalese: the language of the law 
 We know what a frustration it is when consulting European cases and not always finding them in English, but going back in history English was not the language of the courts and documentation until the mid-18th century. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the Pleading in English Act 1362 that established all court pleadings should take place in English and the Proceedings in Court of Justice Act 1730 would make English the obligatory language in the courts of England for both pleading of cases and written records.  
 <br><br>
 Though, before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. The year 1641 would see the first law reports printed entirely in English. 
 
 <param ve-image
-       url="http://www.languageandlaw.org/TEXTS/STATS/PLEADING.HTM](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/4ca9307d-ffd8-4b21-8c73-b2ba7e896421)">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/4ca9307d-ffd8-4b21-8c73-b2ba7e896421)">
 
 ## Latin
 1066 and the Norman conquest saw not only the introduction of French words into the English language but also the encoding of English law in both French and Latin, following the legal stylings of the Normans. However, it was Latin that overall enjoyed a more prominent role as it was the language used by the royal court for plea rolls and writs.
