@@ -201,7 +201,6 @@ This is an example of an early law report printed in Law-French. This particular
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/90c98dda-6794-45cf-82b8-0dd37f777d7d)">
 
-
 ## Un géneral table, à touts les several liures de les reports de, 1618 
 This small volume is a digest of Coke’s Reports, also known simply as Table of Cases. First published in 1606, it proved a popular title and saw further reprints both in Law-French and in English.  
 
@@ -213,6 +212,9 @@ This small volume is a digest of Coke’s Reports, also known simply as Table of
 
 ## The Nominates 
 The nominates refers to hundreds of different law reports published from the 16th century, up to 1865. It is likely they are referred by the term nominates based on the Latin for naming/calling (nominitandus), as each report is identifiable by the name of the reporter responsible for it.  The Handbook of English Law Reports, 1913 provides a catalogue of all nominate reports published, up to 1865. The nominates sit on the open shelves of Middle Temple Library. Although hundreds of years old, reports from this time are still often still utilised in cases today. 
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/52774520-b13c-47f9-bb3a-124874bc8338)">
 
 ## The Big Wigs 
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable but also exerted an influence on law reporting of the future.  
@@ -249,6 +251,9 @@ Plowden brought true innovation to law reporting. He was commended for his accur
 ## Cy ensuont certeyne cases reportes, per Edmunde Plowden, 1584
 This key law report belonged to Robert Ashley whose annotations you can see within. This volume is another that was imprinted in Fleetestrete within Temple Barre by Richard Tottyll.
 
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/566bb912-9c69-4ec0-963c-1156fa6640ac)">
+
 ## Sir Edward Coke (1552-1634) 
 Inner Templar, solicitor-general, attorney-general, Chief Justice of the Common Pleas and the King’s Bench, Sir Edward Coke had a fruitful legal career. He published 11 volumes of his law reports, influencing several generations of students. Coke believed that the reporting of cases was the most comprehensible way of teaching the correct rule and reason of law (Coke’s Reports, Part 6, Preface, xvii). 
 <br><br>
@@ -266,7 +271,16 @@ This key law report belonged to Robert Ashley. Within the pages, you can see man
 ## Hæc epitome undecim librorum relationum honoratisssimi et docti viri Edvardi Coke..., 1640 
 This volume is a first edition digest of Coke's Les Reports (or The Reports) and is from a sizeable donation of books by The Right Honourable Lord Phillimore of Shiplake. Though there is some English and Latin to be found within this volume, it is primarily published in Law-French. 
 <br><br>
-Coke’s reputation is such that his reports can simply be referred to as Les Reports, but as learned and respected as he was, he was dismissed from office due to, amongst other charges, errors in The Reports. 
+Coke’s reputation is such that his reports can simply be referred to as Les Reports, but as learned and respected as he was, he was dismissed from office due to, amongst other charges, errors in The Reports.
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/84107838-aee2-449c-8b54-9a08e26216eb)">
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/29ecb5f1-191c-4bb5-b220-d5a24361b1dd)">
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/76f33d66-5c7b-40a4-835e-c9e0baa1c460)">
 
 ## The Anatomy of a Law Report
 The base structure of a law report has changed significantly over the centuries. Prior to standardisation in 1865, whilst there were many similarities in the field, each reporter had their own take on how to structure a report.
@@ -284,6 +298,12 @@ During this time, there were instances of judges forbidding the citation of cert
 
 ## Speciall and selected law-cases concerning the persons and estates of all men whatsoever. / collected and gathered out of the reports and year-books of the common-law of England, 1648 
 This work is a great example of the need for standardisation. These cases were selected for this particular volume from other law reports and Year Books, but for reasons unknown to the reader. What was the criteria for choosing each case? The author of this compilation is also unknown, making it even harder to determine what the selection process looked like. Was the author a well-respected lawyer with a good reputation?
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8d357f70-228e-486b-915f-c1bec5f35fd8)">
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/141045b2-8e7f-459f-acf6-788359e26f1d)">
 
 ## Setting A New Standard 
 This all came to a head in 1864, during a general meeting of the Bar which took place at Lincoln’s Inn. This meeting resulted in the creation of the Incorporated Council of Law Reporting which was to be composed of members of the Inns of Court and the Law Society. 
