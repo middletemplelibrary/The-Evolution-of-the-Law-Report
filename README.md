@@ -62,6 +62,9 @@ From the George Treby collection, this manuscript features cases from the King's
 ## Reports of cases adjudged in the Court of King's Bench: from the first to the sixth of King William and Queen Mary, 1694 
 This 17th century manuscript is authored by Sir Giles Eyre and includes an index for ease of referring back to the contents.
 
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/fe80979d-2f47-427a-9837-d859e74fddd9">
+
 ## Reports of adjudged cases in the Courts of Chancery, King's Bench, Common Pleas and Exchequer: 4 Geo II-29/30 Geo II, 1730-1757
 This 18th century manuscript is from the Gibbs collection. The author has laid out the legal terms and recorded the cases in neat digest format. There is an index at the back of the volume. 
 The QR code will take you to an online index of cases, as constructed by former intern Jack Alphey. 
