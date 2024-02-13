@@ -17,6 +17,7 @@ The law report is a document used daily in the workings of the legal profession.
 Today we know the law report as a structured document that can be presented in court to support pleadings, but the recording of the law hasn’t always been so standardised and consistent. The documentation of law has changed with the law itself and the social landscape.
 <br><br>
 This exhibition seeks to look at those elements in the evolution of law reporting that have brought about the document we recognise today. 
+<param ve-video id="h9xWxsX-gSA">
 
 ## Plea Rolls
 The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
