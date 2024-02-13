@@ -124,6 +124,12 @@ First published in 1585, this volume is also commonly known as Dyer's Cases, or 
 ## The abridgement of the booke of assises, lately perused ouer, and corrected, [and] nowe newely imprinted by Richard Tottill the last day of September. Anno do. 1555. Cum priuilegio
 Written in Law-French, this volume contains an alphabetical abridgment of  selected cases ranging from Edward I through Edward IV. The colophon for this shows it was published in Flite-strete within Temple barre, at the signe of the hande and starre by Richard Tottell. 
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/f921039e-a2ad-424d-b593-3a47fb134c64">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/313d8cac-7eff-4bf2-88d9-35045e7781ee">
+
 ## Herein is conteined the booke called Nouæ  narrationes, the booke called Articuli ad Nouas narrationes, and the booke of diuersitees of courtes, 1561
 This volume was another that was imprinted in Fleetestrete within Temple Barre by Richard Tottyll. It contains some anonymous contemporary marginalia.
 
