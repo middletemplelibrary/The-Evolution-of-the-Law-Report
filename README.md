@@ -35,9 +35,8 @@ Their purpose was not to offer precedents in subsequent cases, but rather instru
 <br><br>
 It is in these publications and subsequent reprints and translations that we can find the Year Book cases. There is speculation that there may still be manuscript Year Books left in private collections, unbeknownst to the owner. 
 <br><br>
-The Year Books contained information on the proceedings of the case, such as the facts and the judgment, but there was a lack of structure from case-to-case and, unlike the reports of today, no real judicial reasoning contained within. 
-<br><br>
-This can be seen from the case presented in the Year Book in this display.
+The Year Books contained information on the proceedings of the case, such as the facts and the judgment, but there was a lack of structure from case-to-case and, unlike the reports of today, no real judicial reasoning contained within as can be seen in the example on display.
+
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
 <param ve-image
@@ -64,6 +63,9 @@ This 17th century manuscript is authored by Sir Giles Eyre and includes an index
 
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/fe80979d-2f47-427a-9837-d859e74fddd9">
+
+  <param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/f49b9b69-bd22-4b07-a119-b7a4f4d18290">
 
   <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/aa0fbacb-f87b-46fc-814d-b4da37595772">
