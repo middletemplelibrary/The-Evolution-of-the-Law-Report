@@ -77,6 +77,12 @@ The QR code will take you to an online index of cases, as constructed by former 
 From the Gibbs collection, this 18th century manuscript records, as the title suggests, notes of cases heard at the Old Bailey. This and other manuscripts in the Library collection are part of an effort to contribute towards a better understanding of legal history through indexing transcription. 
 <br><br>
 Follow the link e to find out more about the cases in this volume in an article by former intern Jack Alphey. 
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8bbbdb01-1c00-4374-b464-0a3b62fd4d77">
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a5016ac1-fc03-48ad-935a-48e81d6efc14">
  
 ## The Privilege to Print
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was limited to a few.  
