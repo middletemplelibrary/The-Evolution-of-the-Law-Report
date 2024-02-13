@@ -143,6 +143,13 @@ Written in Law-French, this volume contains an alphabetical abridgment of  selec
 ## Herein is conteined the booke called Nouæ  narrationes, the booke called Articuli ad Nouas narrationes, and the booke of diuersitees of courtes, 1561
 This volume was another that was imprinted in Fleetestrete within Temple Barre by Richard Tottyll. It contains some anonymous contemporary marginalia.
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/10734289-cbe5-4881-a804-f6bd78a81897">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8dbc992d-f058-4b43-a80c-c5f336a000ae">
+       
+
 ## Legalese: the language of the law 
 We know what a frustration it is when consulting European cases and not always finding them in English, but going back in history English was not the language of the courts and documentation until the mid-18th century. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the Pleading in English Act 1362 that established all court pleadings should take place in English and the Proceedings in Court of Justice Act 1730 would make English the obligatory language in the courts of England for both pleading of cases and written records.  
 <br><br>
@@ -184,6 +191,16 @@ Written to aid students with deciphering Year Books, this Law French dictionary 
 
 ## Les commentaries, ou reports de Edmund Plowden vn apprentice de le common ley, de diuers cases esteant matters en ley, & de les argumentes sur yceux, en les temps des raigns le roy Ed. le size, le roign Mary, le roy & roign Ph. & Mary, & le roign Elizabeth, 1588 
 This is an example of an early law report printed in Law-French. This particular collection of cases was so successful it was reprinted several times, including an English edition (The commentaries, or reports of Edmund Plowden of the Middle Temple, Esq). This volume is another item from a bequest by the founder of the Library, Robert Ashley.  
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/40af8207-369a-4b02-89f2-c28f130376c8">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/5a289284-c111-419b-b450-5eef3a11c5c0)">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/90c98dda-6794-45cf-82b8-0dd37f777d7d)">
+
 
 ## Un géneral table, à touts les several liures de les reports de, 1618 
 This small volume is a digest of Coke’s Reports, also known simply as Table of Cases. First published in 1606, it proved a popular title and saw further reprints both in Law-French and in English.  
