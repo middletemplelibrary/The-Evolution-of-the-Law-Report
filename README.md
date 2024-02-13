@@ -79,6 +79,10 @@ This 17th century manuscript is authored by Sir Giles Eyre and includes an index
 ## Reports of adjudged cases in the Courts of Chancery, King's Bench, Common Pleas and Exchequer: 4 Geo II-29/30 Geo II, 1730-1757
 This 18th century manuscript is from the Gibbs collection. The author has laid out the legal terms and recorded the cases in neat digest format. There is an index at the back of the volume. 
 
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/5ec6505f-ce00-4590-be3a-488d17d8d134">
+
+
 ## Notes of cases heard at the Old Bailey, 1765-1769
 From the Gibbs collection, this 18th century manuscript records, as the title suggests, notes of cases heard at the Old Bailey. This and other manuscripts in the Library collection are part of an effort to contribute towards a better understanding of legal history through indexing transcription. 
 <br><br>
