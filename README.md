@@ -138,6 +138,10 @@ We know what a frustration it is when consulting European cases and not always f
 <br><br>
 Though, before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. The year 1641 would see the first law reports printed entirely in English. 
 
+<param ve-iframe
+  label="Detail of Statute of Pleading, 1362 from website LANGUAGEandLAW.org"
+       url="http://www.languageandlaw.org/TEXTS/STATS/PLEADING.HTM">
+
 ## Latin
 1066 and the Norman conquest saw not only the introduction of French words into the English language but also the encoding of English law in both French and Latin, following the legal stylings of the Normans. However, it was Latin that overall enjoyed a more prominent role as it was the language used by the royal court for plea rolls and writs.
 <br><br>
