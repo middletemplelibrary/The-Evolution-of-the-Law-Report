@@ -151,11 +151,22 @@ Law French was used in the courts of England from the 13th century, mostly by ju
 <br><br>
 Its usage would decline over time and by the 14th century, it was criticised as an obstacle for those who wished to enter the legal profession. Much like Latin, Law-French would not remain the choice of language for law reporting, but French influence remains through many words still used in the legal profession.
 
+
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2df944a1-48b8-4bf1-85ab-12bceba2bd18">
 
 ## The LAW-French dictionary ... to which is added the Law-Latin dictionary, 1718 
 Written to aid students with deciphering Year Books, this Law French dictionary also has a section for Latin words to help with pleadings. 
+
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/6ea1b49a-abfe-414b-b8c7-041c39afa73a">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/6b38f2c4-1d85-4514-965f-fb45bcf9dd99">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/44356d06-2925-4d1f-b851-c019b5612592">
 
 ## Les commentaries, ou reports de Edmund Plowden vn apprentice de le common ley, de diuers cases esteant matters en ley, & de les argumentes sur yceux, en les temps des raigns le roy Ed. le size, le roign Mary, le roy & roign Ph. & Mary, & le roign Elizabeth, 1588 
 This is an example of an early law report printed in Law-French. This particular collection of cases was so successful it was reprinted several times, including an English edition (The commentaries, or reports of Edmund Plowden of the Middle Temple, Esq). This volume is another item from a bequest by the founder of the Library, Robert Ashley.  
