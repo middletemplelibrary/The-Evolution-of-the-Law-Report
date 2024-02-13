@@ -71,18 +71,26 @@ This 17th century manuscript is authored by Sir Giles Eyre and includes an index
 
 ## Reports of adjudged cases in the Courts of Chancery, King's Bench, Common Pleas and Exchequer: 4 Geo II-29/30 Geo II, 1730-1757
 This 18th century manuscript is from the Gibbs collection. The author has laid out the legal terms and recorded the cases in neat digest format. There is an index at the back of the volume. 
-The QR code will take you to an online index of cases, as constructed by former intern Jack Alphey. 
 
 ## Notes of cases heard at the Old Bailey, 1765-1769
 From the Gibbs collection, this 18th century manuscript records, as the title suggests, notes of cases heard at the Old Bailey. This and other manuscripts in the Library collection are part of an effort to contribute towards a better understanding of legal history through indexing transcription. 
 <br><br>
-Follow the link e to find out more about the cases in this volume in an article by former intern Jack Alphey. 
 
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8bbbdb01-1c00-4374-b464-0a3b62fd4d77">
 
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a5016ac1-fc03-48ad-935a-48e81d6efc14">
+
+## Reading the past and building on our knowledge of legal history
+
+Middle Temple Library tries to host annual internships where the Library can contribute towards the interest of future scholars and also benefit from their interest in our collections. The two items above feature in intern Jack Alphey's work with the Library. 
+
+<param ve-iframe
+       src="https://mid.ent.sirsidynix.net.uk/custom/web/content/Jack%20Alphey%20blog%20post.pdf">
+
+<param ve-iframe
+       src="https://mid.ent.sirsidynix.net.uk/custom/web/content/2023%20MS%2047.pdf">
  
 ## The Privilege to Print
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was limited to a few.  
