@@ -84,7 +84,7 @@ From the Gibbs collection, this 18th century manuscript records, as the title su
 
 ## Reading the past and building on our knowledge of legal history
 
-Middle Temple Library tries to host annual internships where the Library can contribute towards the interest of future scholars and also benefit from their interest in our collections. The two items above feature in intern Jack Alphey's work with the Library. An index for <em>Notes of cases heard at the Old Bailey, 1765-1769</em> constructed by Jack Alphey can be found <a href="https://mid.ent.sirsidynix.net.uk/custom/web/content/2023%20MS%2047.pdf">. 
+Middle Temple Library tries to host annual internships where the Library can contribute towards the interest of future scholars and also benefit from their interest in our collections. The two items above feature in intern Jack Alphey's work with the Library. An index for <em>Notes of cases heard at the Old Bailey, 1765-1769</em> constructed by Jack Alphey can be found [here] (https://mid.ent.sirsidynix.net.uk/custom/web/content/2023%20MS%2047.pdf).
 
 <param ve-iframe
        src="https://mid.ent.sirsidynix.net.uk/custom/web/content/Jack%20Alphey%20blog%20post.pdf"
