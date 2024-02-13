@@ -160,6 +160,9 @@ This 99 page book is an abridgement of Dyer’s Ascuns Novel Cases (see Case 2).
 
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8398beed-4ae7-4af6-8395-ab568be0c5bd">
+  
+  <param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/ce722d39-ce34-4b37-9569-f263fd386067">
 
 ## Sir Edmund Plowden (1518-1585) 
 Middle Templar and one-time Master Treasurer, Sir Edmund Plowden was a successful lawyer on an upwards path during the reign of Mary I. However, his Catholicism would see the end to career ascension under Elizabeth I, though, the Queen did offer him the role of Lord Chancellor, turned down by Plowden who sensed the potential for a conflict of interests. 
