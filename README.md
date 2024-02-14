@@ -307,6 +307,12 @@ This all came to a head in 1864, during a general meeting of the Bar which took 
 <br><br>
 Law reporting was standardised and initially divided into just 11 different series (later becoming 6, following the reorganisation of the courts).  Also laid out were the features of what a law report should contain. There have been minor developments since this time, but it is from this period on that we see the law report of today take its proper shape. 
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/ea61fa2a-ba49-4b91-b6b6-bd98e89b2514">
+
 ## Digitisation 
 In the 1990’s the ICLR worked with Context Ltd (later becoming Justis) to digitise archival law reports, called the Electronic Law Reports. The ICLR thereafter began to license to other providers, such as Westlaw and Lexis. Digitisation and the reporting of cases online allowed for a far swifter publication timeline. However, many law reports are kept behind a hefty paywall with these subscription-based databases, highlighting a need for free access. With the introduction of sites like BAILII, WorldLii and Find Case Law via the National Archives, this need was alleviated somewhat, although many cases remain restricted.
 
