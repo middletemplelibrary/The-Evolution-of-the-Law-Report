@@ -290,6 +290,9 @@ Widespread dissatisfaction with the state of law reporting arose as early as the
 <br><br>
 During this time, there were instances of judges forbidding the citation of certain law reports or publicly criticising law reporters and dubbing them as inaccurate. The mid-seventeenth century also saw a huge increase in the publishing of law reports, partially due to the state of the printing press which John William Wallace dubs the “minister of frauds,” and also due to the dissolvement of the exclusive patent in 1594, both of which significantly increased the quantity of law reports, but not necessarily the quality. Given the reliance of precedent in English common law, ensuring the reports’ authenticity was of the upmost importance. 
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d62a4755-82a9-43ec-93ba-fafcf5775202">
+
 ## Speciall and selected law-cases concerning the persons and estates of all men whatsoever. / collected and gathered out of the reports and year-books of the common-law of England, 1648 
 This work is a great example of the need for standardisation. These cases were selected for this particular volume from other law reports and Year Books, but for reasons unknown to the reader. What was the criteria for choosing each case? The author of this compilation is also unknown, making it even harder to determine what the selection process looked like. Was the author a well-respected lawyer with a good reputation?
 
