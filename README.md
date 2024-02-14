@@ -211,6 +211,10 @@ The nominates refers to hundreds of different law reports published from the 16t
 <param ve-image sticky
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/52774520-b13c-47f9-bb3a-124874bc8338">
 
+
+<param ve-iframe
+        src="https://play.google.com/books/reader?id=I3EDAAAAQAAJ&pg=GBS.PP2&hl=en">
+
 ## The Big Wigs 
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable but also exerted an influence on law reporting of the future.  
 
@@ -329,8 +333,7 @@ Even with the advent of computing no one could really predict the impact of the 
 The Internet however did away with those limitations, introducing THE CLOUD. Being able to connect to servers globally would mean access anywhere and anytime. The Internet would do what the printing press did to the law report, revolutionising access and availability. 
 <br><br>
 Law reports, as well as other legal documents, can be downloaded from a multitude of resources, both free and subscription. All that is required is a connection. 
-Artificial Intelligence is the next advent. Though AI has been around for quite a while, it is now gaining more traction. Its pitfalls are well documented, especially in regards to hallucinated information, but surely the advantages of AI in the legal world are also on the horizon. 
-<br><br>
+Artificial Intelligence is the next advent. Though AI has been around for quite a while, it is now gaining more traction. Its pitfalls are well documented, especially in regards to hallucinated information, but surely the advantages of AI in the legal world are also on the horizon.
 What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
 
 <param ve-iframe
