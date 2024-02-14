@@ -208,12 +208,8 @@ This small volume is a digest of Coke’s Reports, also known simply as Table of
 ## The Nominates 
 The nominates refers to hundreds of different law reports published from the 16th century, up to 1865. It is likely they are referred by the term nominates based on the Latin for naming/calling (nominitandus), as each report is identifiable by the name of the reporter responsible for it.  The Handbook of English Law Reports, 1913 provides a catalogue of all nominate reports published, up to 1865. The nominates sit on the open shelves of Middle Temple Library. Although hundreds of years old, reports from this time are still often still utilised in cases today. 
 
-<param ve-image sticky
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/52774520-b13c-47f9-bb3a-124874bc8338">
-
-
-<param ve-iframe
-        src="https://play.google.com/books/reader?id=I3EDAAAAQAAJ&pg=GBS.PP2&hl=en">
+<param ve-image
+        src="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/52774520-b13c-47f9-bb3a-124874bc8338">
 
 ## The Big Wigs 
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable but also exerted an influence on law reporting of the future.  
