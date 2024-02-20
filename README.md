@@ -334,4 +334,4 @@ Artificial Intelligence is the next advent. Though AI has been around for quite 
 What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/dbbbdeb3-94c0-41ed-bdd7-d742937ef0fa">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/ab4d3d72-b129-405c-baf4-09e87ea70261">    
