@@ -60,7 +60,7 @@ The arrival of the printing press in the 15th century would allow the contents o
 <param ve-image 
        label="Hello”
        description="Graph" 
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c07afa44-561a-4042-9779-f9a899d2cb93>
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c07afa44-561a-4042-9779-f9a899d2cb93">
 
 
 ## Reports in Bancus Regis, 43 Eliz.-10 Jac., 1612-1664?
