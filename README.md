@@ -46,6 +46,8 @@ The Year Books contained information on the proceedings of the case, such as the
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
 
 ## Manuscript to Print 
+Hello!
+<br><br>
 The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and  decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business. But there was no intention to open up current law awareness. 
 <br><br>
 The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press.
