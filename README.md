@@ -57,11 +57,6 @@ The arrival of the printing press in the 15th century would allow the contents o
   description="Woodcut by J. Amman" 
   license="PDM 1.0"
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7a03cf84-aa2c-4aa5-8888-e51402bcd7f7">
-<param ve-image 
-       label="Hello”
-       description="Graph" 
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c07afa44-561a-4042-9779-f9a899d2cb93">
-
 
 ## Reports in Bancus Regis, 43 Eliz.-10 Jac., 1612-1664?
 From the George Treby collection, this manuscript features cases from the King's Bench. Written mainly in Law-French, the manuscript also contains an index and list of rolls for special cases and the last few leaves include cases with counsel's opinions.
