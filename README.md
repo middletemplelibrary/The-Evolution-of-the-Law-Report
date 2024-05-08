@@ -120,15 +120,13 @@ Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Ba
 <br><br>
 Despite Tottel’s considerable contribution to legal publishing, he is most well known for his [Songes and Sonettes, or Tottel's Miscellany](https://ia801301.us.archive.org/19/items/tottelsmiscellan00tottuoft/tottelsmiscellan00tottuoft.pdf), an anthology of English poetry published in 1557. 
 <br><br>
-<param ve-iframe
-       src="https://ia801301.us.archive.org/19/items/tottelsmiscellan00tottuoft/tottelsmiscellan00tottuoft.pdf">
 Upon his death, after a short period of legal battles, the exclusive patent was dissolved and anyone who wished to would be able to publish common law materials. 
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7f77b82a-facb-4dcd-b937-ae873803e27d">
 
 ## Cy ensuont ascuns nouel cases, collectes per le iades tresreuerend iudge, mounsieur Iasques Dyer, chiefe Iustice del common banke. Ore nouelment publies & imprimies, 1592 
-First published in 1585, this volume is also commonly known as Dyer's Cases, or Ascuns Nouel Cases. Written in Law-French, as its colophon records, this volume was printed in the heart of legal London in Fleetestrete within Temple Barre by Richard Tottyll. This volume is from the original bequest by Middle Templar and founder of the Library, Robert Ashley. 
+First published in 1585, this volume is also commonly known as Dyer's Cases, or Ascuns Nouel Cases. Written in Law-French, as its colophon records, this volume was printed in the heart of legal London in <em>Fleetestrete within Temple Barre by Richard Tottyll</em>. This volume is from the original bequest by Middle Templar and founder of the Library, Robert Ashley. 
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c3831ced-3705-4116-a634-61ffde58a17f">
