@@ -100,6 +100,9 @@ Middle Temple Library tries to host annual internships where the Library can con
 
 <param ve-iframe
        src="https://mid.ent.sirsidynix.net.uk/custom/web/content/Jack%20Alphey%20blog%20post.pdf">
+
+## From The Sermons, John Donne
+<em>It is an unjust thing in Controversies and Disputations, to press arguments out of Manuscripts, that cannot be seen by every man</em>
  
 ## The Privilege to Print
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was locked down to a few.
@@ -143,11 +146,11 @@ This volume was another that was imprinted in Fleetestrete within Temple Barre b
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/10734289-cbe5-4881-a804-f6bd78a81897">
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8dbc992d-f058-4b43-a80c-c5f336a000ae">
-       
+
 ## Legalese: the language of the law
 It may surprise some to know that English has not always been the language of the courts and official documentation. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the <em>Pleading in English Act 1362</em> that established all court pleadings should take place in English and the <em>Proceedings in Court of Justice Act 1730</em> would make English the obligatory language in the courts of England for both pleading of cases and written record.
 <br><br>
-But even before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I.
+But even before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from [Calvin’s Case](https://babel.hathitrust.org/cgi/pt?id=nyp.33433009487145&seq=26&q1=calvin) in <em>Coke’s Reports (Part 7, Trin. 6 Jacobi, 1)</em> which looks at the legal status of Scots post the ascension of James VI and I.
 <br><br>
 The year 1641 would see the first law reports printed entirely in English.
 
@@ -212,6 +215,9 @@ The nominates refers to hundreds of different law reports published from the 16t
 ## The Big Wigs
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable but also exerted an influence on law reporting of the future.
 
+## Coke on Dyer, 9.14-15, Le neufme part des reports de Sr. Edw. Coke, 1613
+<em>“profound knowledge and judgment in the laws of the land […] of singular assiduity and observation, as appears by his book of reports, all written with his own hand…”</em>
+
 ## Sir James Dyer (1510-1582)
 Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like.
 
@@ -230,6 +236,9 @@ This 99 page book is an abridgement of Dyer’s Ascuns Novel Cases (see Case 2).
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/ce722d39-ce34-4b37-9569-f263fd386067">
 
+## From the preface of The commentaries, or reports of Edmund Plowden of the Middle Temple, Esq
+<em>“When I first entered upon the study of law...I resolved upon two things which I then purposed earnestly to pursue. The first was to be present at, and to give diligent attention to the debates of questions in law, and particularly to the arguments of those who were men of the greatest note and reputation for learning. The second was to commit to writing what I heard, and the judgement thereupon, which seemed to me to be much better than to rely upon treacherous memory which often deceives its master”</em>
+
 ## Sir Edmund Plowden (1518-1585)
 Middle Templar and one-time Master Treasurer, Sir Edmund Plowden was a successful lawyer on an upwards path during the reign of Mary I. However, his Catholicism would see the end to career ascension under Elizabeth I, though, the Queen did offer him the role of Lord Chancellor, turned down by Plowden who sensed the potential for a conflict of interests.
 <br><br>
@@ -246,6 +255,9 @@ This key law report belonged to Robert Ashley whose annotations you can see with
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/566bb912-9c69-4ec0-963c-1156fa6640ac">
+
+## From the preface of Part 6 of Coke’s Reports
+<em>“The reporting of particular cases or examples, is the most perspicuous course of teaching the right rule and reason of the law”</em>
 
 ## Sir Edward Coke (1552-1634) 
 Inner Templar, solicitor-general, attorney-general, Chief Justice of the Common Pleas and the King’s Bench, Sir Edward Coke had a fruitful legal career. He published 11 volumes of his law reports, influencing several generations of students. Coke believed that the reporting of cases was the most comprehensible way of teaching the correct rule and reason of law (Coke’s Reports, Part 6, Preface, xvii).
@@ -303,6 +315,9 @@ This work is a great example of the need for standardisation. These cases were s
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/141045b2-8e7f-459f-acf6-788359e26f1d">
+
+## From Nathaniel Lindley in (1885) 1 LQR 137, at 143
+<em>“The subjects reported should include all cases which introduce or appear to introduce a new principle or new rule; or which materially modify an existing principle or rule; or which settle or tend to settle a question on which the law is doubtful; or which for any other reason are peculiarly instructive.”</em>
 
 ## Setting A New Standard
 This all came to a head in 1864, during a general meeting of the Bar which took place at Lincoln’s Inn. This meeting resulted in the creation of the Incorporated Council of Law Reporting which was to be composed of members of the Inns of Court and the Law Society.
