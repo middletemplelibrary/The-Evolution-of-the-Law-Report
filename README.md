@@ -299,6 +299,9 @@ From 1592, to 1849, to 2021, we see several changes in reporting styles. The ear
 <param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/0dcdd950-6b2f-4ae8-84f4-adffec5109d6" label="Report descr" description="photograph">
 <param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2a9e27b9-9753-471f-abef-aea45a6f1a11" label="Report descr" description="photograph">
 
+## From Lord Denman C.J. in [1849] 116 ER 1484, at 1486
+<em>“[Espinasse’s Reports] were never quoted without doubt and hesitation”</em>
+
 ## Falling Behind Standard
 Widespread dissatisfaction with the state of law reporting arose as early as the mid-eighteenth century. Reports were often falsely attributed, anonymous, or printed posthumously, and cases were collected years after they were adjudged, bringing into question their accuracy. In one such instance, the cases in New Benloes date back to 1531, whilst the book was published in 1661, long after his death in 1584. Many reports were also written for personal use and were never intended to be printed and read by an audience.
 <br><br>
