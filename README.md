@@ -20,7 +20,7 @@ This exhibition seeks to look at those elements in the evolution of law reportin
 <param ve-video id="h9xWxsX-gSA">
 
 ## Plea Rolls
-The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea Rolls were hefty rolls of parchment that formally recorded pleadings. The record-keeping was divided by the four legal terms and written in Latin. 
+The law report as we know it would not emerge until the 19th century, but records of legal proceedings existed from much earlier. Plea rolls were hefty rolls of parchment that formally recorded pleadings. Record-keeping was divided by the four legal terms and written in a highly abbreviated form f Latin. 
 <br><br>
 The aim of the rolls was to record decisions to prevent subsequent litigation on the same matter, a process we now know as res judicata. Though useful, what was lacking in the plea rolls was the reasoning behind the recorded decisions, something that would begin to make a presence in later reporting.
 
@@ -30,15 +30,13 @@ The aim of the rolls was to record decisions to prevent subsequent litigation on
 
        
 ## The Year Books
-Regular reporting really began in 1189 with the transcription of plea rolls and into year books. Though regular is rather misleading as the year books do have some irregularity in their printing. Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French. 
+Regular reporting really began in 1189 with the transcription of the Year Books from the plea rolls. Though regular is rather misleading as these reports do have some irregularity in their printing. 
 <br><br>
-They contained anonymously written notes and judgments on cases overseen by the King’s Justices in Westminster Hall and on their Eyres. Year books were still not quite as sophisticated the modern report, but they did contain judicial opinion as well as decisions. 
+Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French and contained anonymously written notes and judgments on cases overseen by the King’s Justices in Westminster Hall and on their Eyres. Year Books were not quite as sophisticated the modern report, but they did contain judicial opinion as well as decisions. 
 <br><br>
-Their purpose was not to offer precedents in subsequent cases, but rather instruction on how best to argue a case. They were also relevant enough that later on law reporters would select certain cases for printing to be published under their own names. 
+Their purpose was not to offer precedents in subsequent cases, but rather instruction on how best to argue a case. The Year Books contained information on the proceedings of the case, such as the facts and the judgment, but there was a lack of structure from case-to-case. But they were relevant enough that later on law reporters would select certain cases for printing to be published under their own names. 
 <br><br>
 It is in these publications and subsequent reprints and translations that we can find the Year Book cases. There is speculation that there may still be manuscript Year Books left in private collections, unbeknownst to the owner. 
-<br><br>
-The Year Books contained information on the proceedings of the case, such as the facts and the judgment, but there was a lack of structure from case-to-case and, unlike the reports of today, no real judicial reasoning contained within as can be seen in the example on display.
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
