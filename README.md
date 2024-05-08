@@ -120,6 +120,8 @@ Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Ba
 <br><br>
 Despite Tottel’s considerable contribution to legal publishing, he is most well known for his [Songes and Sonettes, or Tottel's Miscellany](https://ia801301.us.archive.org/19/items/tottelsmiscellan00tottuoft/tottelsmiscellan00tottuoft.pdf), an anthology of English poetry published in 1557. 
 <br><br>
+<param ve-iframe
+       src="https://ia801301.us.archive.org/19/items/tottelsmiscellan00tottuoft/tottelsmiscellan00tottuoft.pdf">
 Upon his death, after a short period of legal battles, the exclusive patent was dissolved and anyone who wished to would be able to publish common law materials. 
 
 <param ve-image
