@@ -44,11 +44,11 @@ It is in these publications and subsequent reprints and translations that we can
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
 
 ## Manuscript to Print 
-The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and  decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business. But there was no intention to open up current law awareness. 
+The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business.
 <br><br>
-The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press.
+But there was no intention to open up current law awareness. The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press in the 15th century.
 <br><br>
-The arrival of the printing press in the 15th century would allow the contents of private manuscripts to become more widely accessible, bringing to light decades-old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
+The printing press would allow the contents of private manuscripts to become more accessible, bringing to light decades-old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases. 
 
 <param ve-image
   label="Printers working at a printing press, and setting type, 1568. Wellcome Collection"
@@ -105,7 +105,7 @@ Middle Temple Library tries to host annual internships where the Library can con
        src="https://mid.ent.sirsidynix.net.uk/custom/web/content/Jack%20Alphey%20blog%20post.pdf">
  
 ## The Privilege to Print
-It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was limited to a few.  
+It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was locked down to a few.  
 <br><br>
 Despite resistance, the printing press would change this, allowing for wider circulation through reproduction, as well as reprints of popular and respected works. But not everyone could just decide to start putting manuscripts into printed form. In the early days of legal printing, the privilege to print had to be granted. 
 
@@ -116,10 +116,11 @@ Despite resistance, the printing press would change this, allowing for wider cir
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/1ae6c509-d179-4cbd-8873-c8efc10b1819">
       
 ## Richard Tottel (d.1594) 
-Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Bar. He received two seven-year patents and then another for life allowing him to publish legal works. He was the sole publisher of law documents until he died, thanks to a royal patent granted by Elizabeth I. 
+Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Bar. He received two seven-year patents allowing him to publish legal works until he passed away in 1594. He was the sole publisher of law documents until he died, thanks to a royal patent granted by Elizabeth I. 
 <br><br>
-Upon his death, after a short period of legal battles, the exclusive patent was dissolved and was opened to anyone to publish common law materials. This, of course, led to an increase in the number of law reports published. 
-Despite Tottel’s considerable contribution to legal publishing, he is most well known for his <strong><em>Songes and Sonettes, or Tottel's Miscellany</em></strong>, an anthology of English poetry published in 1557. 
+Despite Tottel’s considerable contribution to legal publishing, he is most well known for his [Songes and Sonettes, or Tottel's Miscellany](https://ia801301.us.archive.org/19/items/tottelsmiscellan00tottuoft/tottelsmiscellan00tottuoft.pdf), an anthology of English poetry published in 1557. 
+<br><br>
+Upon his death, after a short period of legal battles, the exclusive patent was dissolved and anyone who wished to would be able to publish common law materials. 
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7f77b82a-facb-4dcd-b937-ae873803e27d">
