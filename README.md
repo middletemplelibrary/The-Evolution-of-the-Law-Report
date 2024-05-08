@@ -148,9 +148,11 @@ This volume was another that was imprinted in Fleetestrete within Temple Barre b
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/8dbc992d-f058-4b43-a80c-c5f336a000ae">
        
 ## Legalese: the language of the law 
-We know what a frustration it is when consulting European cases and not always finding them in English, but going back in history English was not the language of the courts and documentation until the mid-18th century. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the Pleading in English Act 1362 that established all court pleadings should take place in English and the Proceedings in Court of Justice Act 1730 would make English the obligatory language in the courts of England for both pleading of cases and written records.  
+It may surprise some to know that English has not always been the language of the courts and official documentation. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the <em>Pleading in English Act 1362</em> that established all court pleadings should take place in English and the <em>Proceedings in Court of Justice Act 1730</em> would make English the obligatory language in the courts of England for both pleading of cases and written record.  
 <br><br>
-Though, before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. The year 1641 would see the first law reports printed entirely in English. 
+But even before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in Coke’s Reports (Part 7, Trin. 6 Jacobi, 1) which looks at the legal status of Scots post the ascension of James VI and I. 
+<br><br>
+The year 1641 would see the first law reports printed entirely in English. 
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/4ca9307d-ffd8-4b21-8c73-b2ba7e896421">
