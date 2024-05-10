@@ -321,6 +321,18 @@ This all came to a head in 1864, during a general meeting of the Bar which took 
 Law reporting was standardised and initially divided into just 11 different series (later becoming 6, following the reorganisation of the courts).  Also laid out were the features of what a law report should contain. There have been minor developments since this time, but it is from this period on that we see the law report of today take its proper shape.
 
 <param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/80fb8606-04a5-446b-b939-6f86dc1d3ceb">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
+
+<param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
 
 <param ve-image
