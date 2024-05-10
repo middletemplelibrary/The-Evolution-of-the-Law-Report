@@ -217,9 +217,6 @@ There are many names synonymous with law reporting, especially when we go back t
 <param ve-image
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d4b7ff94-bea0-44d5-a08f-73c7b755ac76">
 
-## Coke on Dyer, 9.14-15, Le neufme part des reports de Sr. Edw. Coke, 1613
-<em>“profound knowledge and judgment in the laws of the land […] of singular assiduity and observation, as appears by his book of reports, all written with his own hand…”</em>
-
 ## Sir James Dyer (1510-1582)
 Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like.
 
@@ -241,10 +238,15 @@ This 99 page book is an abridgement of Dyer’s Ascuns Novel Cases (see Case 2).
 ## From the preface of The commentaries, or reports of Edmund Plowden of the Middle Temple, Esq
 <em>“When I first entered upon the study of law...I resolved upon two things which I then purposed earnestly to pursue. The first was to be present at, and to give diligent attention to the debates of questions in law, and particularly to the arguments of those who were men of the greatest note and reputation for learning. The second was to commit to writing what I heard, and the judgement thereupon, which seemed to me to be much better than to rely upon treacherous memory which often deceives its master”</em>
 
+
+
 ## Sir Edmund Plowden (1518-1585)
 Middle Templar and one-time Master Treasurer, Sir Edmund Plowden was a successful lawyer on an upwards path during the reign of Mary I. However, his Catholicism would see the end to career ascension under Elizabeth I, though, the Queen did offer him the role of Lord Chancellor, turned down by Plowden who sensed the potential for a conflict of interests.
 <br><br>
 Plowden brought true innovation to law reporting. He was commended for his accurate law reporting in his compilation of important cases. His volume of law reports broke away from the typical Year Book tradition by prefacing each report with a transcription of the case from the record and proceeding to comment critically on the arguments presented. He was also the first law reporter to have his reports published during his lifetime.
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/36c9b0d3-1bab-4d01-9922-107011a7bd00">
 
 <param ve-image
   label="Portrait of Edmund Plowden. 1750. ©The Trustees of the British Museum"
