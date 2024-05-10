@@ -101,10 +101,10 @@ Middle Temple Library tries to host annual internships where the Library can con
 <param ve-iframe
        src="https://mid.ent.sirsidynix.net.uk/custom/web/content/Jack%20Alphey%20blog%20post.pdf">
 
-## From The Sermons, John Donne
-<em>It is an unjust thing in Controversies and Disputations, to press arguments out of Manuscripts, that cannot be seen by every man</em>
  
 ## The Privilege to Print
+<strong><em>It is an unjust thing in Controversies and Disputations, to press arguments out of Manuscripts, that cannot be seen by every man</em> - from <em>The Sermons</em>, John Donne
+<br><br>
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was locked down to a few.
 <br><br>
 Despite resistance, the printing press would change this, allowing for wider circulation through reproduction, as well as reprints of popular and respected works. But not everyone could just decide to start putting manuscripts into printed form. In the early days of legal printing, the privilege to print had to be granted. 
