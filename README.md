@@ -162,7 +162,7 @@ The year 1641 would see the first law reports printed entirely in English.
 The problem Latin posed was that the language of pleadings and the common person was still in English, creating a disparity between the lawmakers and the people. Ultimately Latin would give way to the lingua franca, but not without leaving an indelible mark.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d3693f26-b516-4b43-a9b5-d9e0f7bceeea">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a3c0460a-bcc1-48d4-a366-06b0ded6f3b9">
        
 ## Law-French
 Law French was used in the courts of England from the 13th century, mostly by judges and lawyers. Its roots were in the general usage of French amongst the upper classes, but the Law-French of writing was quite different from the spoken form, a mish-mash of French, Latin, and Anglo-Saxon.
@@ -170,7 +170,7 @@ Law French was used in the courts of England from the 13th century, mostly by ju
 Its usage would decline over time and by the 14th century, it was criticised as an obstacle for those who wished to enter the legal profession. Much like Latin, Law-French would not remain the choice of language for law reporting, but French influence remains through many words still used in the legal profession.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2df944a1-48b8-4bf1-85ab-12bceba2bd18">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7fc7b4a8-c2cf-464c-961e-172c8bddb442">
 
 ## The LAW-French dictionary ... to which is added the Law-Latin dictionary, 1718
 Written to aid students with deciphering Year Books, this Law French dictionary also has a section for Latin words to help with pleadings.
