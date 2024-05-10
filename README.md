@@ -235,11 +235,6 @@ This 99 page book is an abridgement of Dyer’s Ascuns Novel Cases (see Case 2).
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/ce722d39-ce34-4b37-9569-f263fd386067">
 
-## From the preface of The commentaries, or reports of Edmund Plowden of the Middle Temple, Esq
-<em>“When I first entered upon the study of law...I resolved upon two things which I then purposed earnestly to pursue. The first was to be present at, and to give diligent attention to the debates of questions in law, and particularly to the arguments of those who were men of the greatest note and reputation for learning. The second was to commit to writing what I heard, and the judgement thereupon, which seemed to me to be much better than to rely upon treacherous memory which often deceives its master”</em>
-
-
-
 ## Sir Edmund Plowden (1518-1585)
 Middle Templar and one-time Master Treasurer, Sir Edmund Plowden was a successful lawyer on an upwards path during the reign of Mary I. However, his Catholicism would see the end to career ascension under Elizabeth I, though, the Queen did offer him the role of Lord Chancellor, turned down by Plowden who sensed the potential for a conflict of interests.
 <br><br>
@@ -269,7 +264,10 @@ Inner Templar, solicitor-general, attorney-general, Chief Justice of the Common 
 Coke was a respected figure and key player in the development of English law. He conducted several treason trials including those of Sir Walter Raleigh and the Gunpowder Plot conspirators.
 
 <param ve-image
-  label="PPortrait of Sir Edward Coke. 1714-1781. ©The Trustees of the British Museum"
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/59b55a2e-82ce-4907-aee0-992fe370e416">
+
+<param ve-image
+  label="Portrait of Sir Edward Coke. 1714-1781. ©The Trustees of the British Museum"
   description="Etching, engraving" 
   license="CC BY-NC-SA 4.0"
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/886ed9da-0874-4ffa-9425-6e75ff78fd46">
