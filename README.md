@@ -103,17 +103,12 @@ Middle Temple Library tries to host annual internships where the Library can con
 
  
 ## The Privilege to Print
-<strong><em>It is an unjust thing in Controversies and Disputations, to press arguments out of Manuscripts, that cannot be seen by every man</em> - from <em>The Sermons</em>, John Donne</strong>
-<br><br>
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was locked down to a few.
 <br><br>
 Despite resistance, the printing press would change this, allowing for wider circulation through reproduction, as well as reprints of popular and respected works. But not everyone could just decide to start putting manuscripts into printed form. In the early days of legal printing, the privilege to print had to be granted. 
 
 <param ve-image
-  label="View of Temple Bar, c.1690, ©The Trustees of the British Museum"
-  description="Etching and engraving" 
-  license="CC BY-NC-SA 4.0"
-  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/1ae6c509-d179-4cbd-8873-c8efc10b1819">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a4935561-0e89-467f-a72c-abb9075cbc0a">
       
 ## Richard Tottel (d.1594)
 Richard Tottel was a legal publisher who had a shop on Fleet Street at Temple Bar. He received two seven-year patents allowing him to publish legal works until he passed away in 1594. He was the sole publisher of law documents until he died, thanks to a royal patent granted by Elizabeth I.
@@ -124,6 +119,12 @@ Upon his death, after a short period of legal battles, the exclusive patent was 
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/7f77b82a-facb-4dcd-b937-ae873803e27d">
+
+<param ve-image
+  label="View of Temple Bar, c.1690, ©The Trustees of the British Museum"
+  description="Etching and engraving" 
+  license="CC BY-NC-SA 4.0"
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/1ae6c509-d179-4cbd-8873-c8efc10b1819">
 
 ## Cy ensuont ascuns nouel cases, collectes per le iades tresreuerend iudge, mounsieur Iasques Dyer, chiefe Iustice del common banke. Ore nouelment publies & imprimies, 1592 
 First published in 1585, this volume is also commonly known as Dyer's Cases, or Ascuns Nouel Cases. Written in Law-French, as its colophon records, this volume was printed in the heart of legal London in <em>Fleetestrete within Temple Barre by Richard Tottyll</em>. This volume is from the original bequest by Middle Templar and founder of the Library, Robert Ashley.
