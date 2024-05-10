@@ -255,9 +255,6 @@ This key law report belonged to Robert Ashley whose annotations you can see with
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/566bb912-9c69-4ec0-963c-1156fa6640ac">
 
-## From the preface of Part 6 of Coke’s Reports
-<em>“The reporting of particular cases or examples, is the most perspicuous course of teaching the right rule and reason of the law”</em>
-
 ## Sir Edward Coke (1552-1634) 
 Inner Templar, solicitor-general, attorney-general, Chief Justice of the Common Pleas and the King’s Bench, Sir Edward Coke had a fruitful legal career. He published 11 volumes of his law reports, influencing several generations of students. Coke believed that the reporting of cases was the most comprehensible way of teaching the correct rule and reason of law (Coke’s Reports, Part 6, Preface, xvii).
 <br><br>
@@ -301,13 +298,13 @@ From 1592, to 1849, to 2021, we see several changes in reporting styles. The ear
 <param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/0dcdd950-6b2f-4ae8-84f4-adffec5109d6" label="Report descr" description="photograph">
 <param ve-compare url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/2a9e27b9-9753-471f-abef-aea45a6f1a11" label="Report descr" description="photograph">
 
-## From Lord Denman C.J. in [1849] 116 ER 1484, at 1486
-<em>“[Espinasse’s Reports] were never quoted without doubt and hesitation”</em>
-
 ## Falling Behind Standard
 Widespread dissatisfaction with the state of law reporting arose as early as the mid-eighteenth century. Reports were often falsely attributed, anonymous, or printed posthumously, and cases were collected years after they were adjudged, bringing into question their accuracy. In one such instance, the cases in New Benloes date back to 1531, whilst the book was published in 1661, long after his death in 1584. Many reports were also written for personal use and were never intended to be printed and read by an audience.
 <br><br>
 During this time, there were instances of judges forbidding the citation of certain law reports or publicly criticising law reporters and dubbing them as inaccurate. The mid-seventeenth century also saw a huge increase in the publishing of law reports, partially due to the state of the printing press which John William Wallace dubs the “minister of frauds,” and also due to the dissolvement of the exclusive patent in 1594, both of which significantly increased the quantity of law reports, but not necessarily the quality. Given the reliance of precedent in English common law, ensuring the reports’ authenticity was of the upmost importance.
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c8f83c70-f01d-48ee-9899-3cb25a9f9cfa">
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d62a4755-82a9-43ec-93ba-fafcf5775202">
@@ -321,13 +318,13 @@ This work is a great example of the need for standardisation. These cases were s
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/141045b2-8e7f-459f-acf6-788359e26f1d">
 
-## From Nathaniel Lindley in (1885) 1 LQR 137, at 143
-<em>“The subjects reported should include all cases which introduce or appear to introduce a new principle or new rule; or which materially modify an existing principle or rule; or which settle or tend to settle a question on which the law is doubtful; or which for any other reason are peculiarly instructive.”</em>
-
 ## Setting A New Standard
 This all came to a head in 1864, during a general meeting of the Bar which took place at Lincoln’s Inn. This meeting resulted in the creation of the Incorporated Council of Law Reporting which was to be composed of members of the Inns of Court and the Law Society.
 <br><br>
 Law reporting was standardised and initially divided into just 11 different series (later becoming 6, following the reorganisation of the courts).  Also laid out were the features of what a law report should contain. There have been minor developments since this time, but it is from this period on that we see the law report of today take its proper shape.
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/60eea65d-81de-4ad9-8289-2cf2564f8723">
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
