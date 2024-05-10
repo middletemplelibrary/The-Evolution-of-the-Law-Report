@@ -215,7 +215,7 @@ The nominates refers to hundreds of different law reports published from the 16t
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable but also exerted an influence on law reporting of the future.
 
 <param ve-image
-  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d4b7ff94-bea0-44d5-a08f-73c7b755ac76">
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/0f290fdd-fc5e-4ee6-905c-6d3b98f623dd">
 
 ## Sir James Dyer (1510-1582)
 Middle Templar, Judge, Chief Justice of the Court of the Common Pleas and Speaker of the House of Commons, Sir James Dyer had a profound influence on the legal sphere. His three main volumes of works, comprising of cases from 1512 to his death in 1582, were published posthumously and were widely regarded as excellent work. He was the first to set the standard for what law reporting should look like.
@@ -241,7 +241,7 @@ Middle Templar and one-time Master Treasurer, Sir Edmund Plowden was a successfu
 Plowden brought true innovation to law reporting. He was commended for his accurate law reporting in his compilation of important cases. His volume of law reports broke away from the typical Year Book tradition by prefacing each report with a transcription of the case from the record and proceeding to comment critically on the arguments presented. He was also the first law reporter to have his reports published during his lifetime.
 
 <param ve-image
-  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/36c9b0d3-1bab-4d01-9922-107011a7bd00">
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/bc10a673-03d3-48d6-b84e-654e63fed159">
 
 <param ve-image
   label="Portrait of Edmund Plowden. 1750. ©The Trustees of the British Museum"
@@ -261,7 +261,7 @@ Inner Templar, solicitor-general, attorney-general, Chief Justice of the Common 
 Coke was a respected figure and key player in the development of English law. He conducted several treason trials including those of Sir Walter Raleigh and the Gunpowder Plot conspirators.
 
 <param ve-image
-  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/59b55a2e-82ce-4907-aee0-992fe370e416">
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/df4cae87-d977-4096-b1be-306ca7aa59a1">
 
 <param ve-image
   label="Portrait of Sir Edward Coke. 1714-1781. ©The Trustees of the British Museum"
@@ -321,7 +321,7 @@ This all came to a head in 1864, during a general meeting of the Bar which took 
 Law reporting was standardised and initially divided into just 11 different series (later becoming 6, following the reorganisation of the courts).  Also laid out were the features of what a law report should contain. There have been minor developments since this time, but it is from this period on that we see the law report of today take its proper shape.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/80fb8606-04a5-446b-b939-6f86dc1d3ceb">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/f0e18431-9e8d-48bc-a7e2-e153e9eb8a80">
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
