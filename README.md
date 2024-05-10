@@ -304,9 +304,6 @@ Widespread dissatisfaction with the state of law reporting arose as early as the
 During this time, there were instances of judges forbidding the citation of certain law reports or publicly criticising law reporters and dubbing them as inaccurate. The mid-seventeenth century also saw a huge increase in the publishing of law reports, partially due to the state of the printing press which John William Wallace dubs the “minister of frauds,” and also due to the dissolvement of the exclusive patent in 1594, both of which significantly increased the quantity of law reports, but not necessarily the quality. Given the reliance of precedent in English common law, ensuring the reports’ authenticity was of the upmost importance.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c8f83c70-f01d-48ee-9899-3cb25a9f9cfa">
-
-<param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d62a4755-82a9-43ec-93ba-fafcf5775202">
 
 ## Speciall and selected law-cases concerning the persons and estates of all men whatsoever. / collected and gathered out of the reports and year-books of the common-law of England, 1648
@@ -322,6 +319,9 @@ This work is a great example of the need for standardisation. These cases were s
 This all came to a head in 1864, during a general meeting of the Bar which took place at Lincoln’s Inn. This meeting resulted in the creation of the Incorporated Council of Law Reporting which was to be composed of members of the Inns of Court and the Law Society.
 <br><br>
 Law reporting was standardised and initially divided into just 11 different series (later becoming 6, following the reorganisation of the courts).  Also laid out were the features of what a law report should contain. There have been minor developments since this time, but it is from this period on that we see the law report of today take its proper shape.
+
+<param ve-image
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d14f64cf-ebde-42b5-88f4-1ba83f3b5aa9">
 
 <param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/60eea65d-81de-4ad9-8289-2cf2564f8723">
