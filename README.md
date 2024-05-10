@@ -327,15 +327,6 @@ Law reporting was standardised and initially divided into just 11 different seri
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
-
-<param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
-
-<param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b9ffc7c4-f191-499a-b356-6201f789301c">
-
-<param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/ea61fa2a-ba49-4b91-b6b6-bd98e89b2514">
 
 ## Digitisation
