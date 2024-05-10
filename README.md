@@ -95,13 +95,11 @@ From the Gibbs collection, this 18th century manuscript records, as the title su
   url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a5016ac1-fc03-48ad-935a-48e81d6efc14">
 
 ## Reading the past and building on our knowledge of legal history
-
 Middle Temple Library tries to host annual internships where the Library can contribute towards the interest of future scholars and also benefit from their interest in our collections. The two items above feature in intern Jack Alphey's work with the Library. An index for <em>Notes of cases heard at the Old Bailey, 1765-1769</em> constructed by Jack Alphey can be found [here](https://mid.ent.sirsidynix.net.uk/custom/web/content/2023%20MS%2047.pdf).
 
 <param ve-iframe
        src="https://mid.ent.sirsidynix.net.uk/custom/web/content/Jack%20Alphey%20blog%20post.pdf">
 
- 
 ## The Privilege to Print
 It is no surprise to anyone involved with the legal profession that access to legal information is not always easy and not always cheap. This was no different in the beginnings of law reporting. Though medieval manuscripts were in circulation, they were scarce and the access was locked down to a few.
 <br><br>
@@ -215,6 +213,9 @@ The nominates refers to hundreds of different law reports published from the 16t
 
 ## The Big Wigs
 There are many names synonymous with law reporting, especially when we go back to the early reports when the idea of authoritative and trustworthy reporting begins to take form, but Coke, Dyer and Plowden can be considered the cream of the crop. Their collections of reports were not only seen as reliable but also exerted an influence on law reporting of the future.
+
+<param ve-image
+  url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/d4b7ff94-bea0-44d5-a08f-73c7b755ac76">
 
 ## Coke on Dyer, 9.14-15, Le neufme part des reports de Sr. Edw. Coke, 1613
 <em>“profound knowledge and judgment in the laws of the land […] of singular assiduity and observation, as appears by his book of reports, all written with his own hand…”</em>
