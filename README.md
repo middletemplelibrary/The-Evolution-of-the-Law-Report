@@ -37,9 +37,9 @@ Their purpose was not to offer precedents in subsequent cases, but rather instru
 It is in these publications and subsequent reprints and translations that we can find the Year Book cases. There is speculation that there may still be manuscript Year Books left in private collections, unbeknownst to the owner.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/3ae67a68-5e42-444e-aa3e-c0628b7e7a3d">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b2754627-1111-404c-93f7-85d979eb714c">
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/54d89a74-8e74-44a0-9ae9-5257d51e9eb6">
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/87eb7af9-3b80-40aa-b5d8-81fe2601812b">
 
 ## Manuscript to Print
 The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business.
