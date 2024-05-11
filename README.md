@@ -4,10 +4,11 @@
        banner="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/dc540604-bb85-409f-a8cb-54bc2103359b"
        layout="vertical">
 
-##
-Welcome to Middle Temple Library’s exhibition on The Evolution of the Law Report.
+## 
+Welcome to Middle Temple Library’s exhibition, The Evolution of the Law Report.
 
-<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1z3DIuh7YElT3er9IOE_iZPvkyOQ6yTQeX3bFB8kKfQ4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
 
 ## The Law Report
 The law report is a document used daily in the workings of the legal profession. An authoritative piece of work, it both records precedent-setting judicial decisions, as well as informing decisions through the precedents recorded within.
@@ -343,8 +344,7 @@ Law reports, as well as other legal documents, can be downloaded from a multitud
 Artificial Intelligence is the next advent. Though AI has been around for quite a while, it is now gaining more traction. Its pitfalls are well documented, especially in regards to hallucinated information, but surely the advantages of AI in the legal world are also on the horizon.
 What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
 
-<param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/19167038-1b27-47eb-8301-4ec71e10d006">
+<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1z3DIuh7YElT3er9IOE_iZPvkyOQ6yTQeX3bFB8kKfQ4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
 
 ##
 This exhibition ran in Middle Temple Library from February to May 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
