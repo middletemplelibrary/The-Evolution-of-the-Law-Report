@@ -150,12 +150,12 @@ This volume was another that was imprinted in Fleetestrete within Temple Barre b
 ## Legalese: the language of the law
 It may surprise some to know that English has not always been the language of the courts and official documentation. Conquest brought many new things to the shores of England, including ideas about legal codification and language. It was the <em>Pleading in English Act 1362</em> that established all court pleadings should take place in English and the <em>Proceedings in Court of Justice Act 1730</em> would make English the obligatory language in the courts of England for both pleading of cases and written record.
 <br><br>
-But even before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from [Calvin’s Case](https://babel.hathitrust.org/cgi/pt?id=nyp.33433009487145&seq=26&q1=calvin) in <em>Coke’s Reports (Part 7, Trin. 6 Jacobi, 1)</em> which looks at the legal status of Scots post the ascension of James VI and I.
+But even before English became the official language, oftentimes cases that were considered important enough to be shared with the general public were also written in English. This can be seen from Calvin’s Case in <em>Coke’s Reports (Part 7, Trin. 6 Jacobi, 1)</em> which looks at the legal status of Scots post the ascension of James VI and I.
 <br><br>
 The year 1641 would see the first law reports printed entirely in English.
 
 <param ve-iframe
-       src="https://archive.org/details/reportssiredwar03cokegoog/page/n22/mode/2up">
+       src="https://archive.org/details/reportssiredwar03cokegoog/page/n22/mode/2up](https://archive.org/details/reportssiredwar03cokegoog/page/n22/mode/2up?view=theater">
        
 ## Latin
 1066 and the Norman conquest saw not only the introduction of French words into the English language but also the encoding of English law in both French and Latin, following the legal stylings of the Normans. However, it was Latin that overall enjoyed a more prominent role as it was the language used by the royal court for plea rolls and writs.
