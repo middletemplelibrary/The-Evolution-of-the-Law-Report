@@ -344,4 +344,7 @@ Artificial Intelligence is the next advent. Though AI has been around for quite 
 What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/19167038-1b27-47eb-8301-4ec71e10d006">         
+       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/19167038-1b27-47eb-8301-4ec71e10d006">
+
+##
+This exhibition ran in Middle Temple Library from February to May 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
