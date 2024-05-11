@@ -28,7 +28,7 @@ The aim of the rolls was to record decisions to prevent subsequent litigation on
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/a728e160-0c4f-461e-9541-94cb50c8d652">
 
 ## The Year Books
-Regular reporting really began in 1189 with the transcription of the Year Books from the plea rolls. Though regular is rather misleading as these reports do have some irregularity in their printing.
+Regular reporting really began in 1189 with the transcription of the Year Books from within plea rolls - though regular is rather misleading as these reports do have some irregularity in their printing.
 <br><br>
 Dating from the Norman period to the Tudor age, the Year Books were written in Anglo-Norman French and contained anonymously written notes and judgments on cases overseen by the King’s Justices in Westminster Hall and on their Eyres. Year Books were not quite as sophisticated the modern report, but they did contain judicial opinion as well as decisions.
 <br><br>
@@ -42,11 +42,11 @@ It is in these publications and subsequent reprints and translations that we can
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/76b5a579-1e69-4602-85c7-c0ef16ffc8b2">
 
 ## Manuscript to Print
-The real precursor to the modern report was probably to be found in privately kept manuscripts that contained notes on cases and decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulated between select practitioners—knowledge being key to success and business.
+One precursor to the modern report could be found in privately kept manuscripts that contained notes on cases and decisions. Many of these would be published decades after being written, creating an accessible collection of early law reporting. These were not the only manuscripts of course. There were more current ones too, circulation locked down to select practitioners.
 <br><br>
-But there was no intention to open up current law awareness. The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone had a desire for improving access to the rulings in court, or putting the law into writing. However, this would change with the arrival of the printing press in the 15th century.
+There seemed to be no real desire to open up current law awareness. The legal profession was a learned one, acumen gained through observation and discussion with peers, through oral tradition as established by the Inns of Court. Not everyone felt strongly about access to the rulings in court, or putting the law into writing. However, the arrival of the printing press in the 15th century would somewhat force the matter.
 <br><br>
-The printing press would allow the contents of private manuscripts to become more accessible, bringing to light decades-old cases. Manuscripts of newer cases would also continue to circulate, as there was always going to be interest in current decisions, but moveable type would encourage structure and clarity, as well as help to cement the idea of authoritative reports. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases.
+The printing press bring to light decades-old cases as well as the Year Books, which would dominate early legal printing. Manuscripts of newer cases would continue to circulate, but the printing press would gradually take hold, and it also help to innovate in the areas of structure and clarity. Most of all, it would shift legal learning towards a more textual space, as well as level the playing field in terms of access to reported cases.
 
 <param ve-image
   label="Detail from Printers working at a printing press, and setting type, 1568. Wellcome Collection"
