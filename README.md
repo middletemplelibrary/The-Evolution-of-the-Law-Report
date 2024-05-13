@@ -347,7 +347,8 @@ What we do know for sure is that the law report, a document close to a thousand 
 <param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1z3DIuh7YElT3er9IOE_iZPvkyOQ6yTQeX3bFB8kKfQ4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
 
 ##
-This exhibition ran in Middle Temple Library from February to May 2024 (download original [exhibtion guide](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/files/15297359/exhibtion.guide.pdf). For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
+This exhibition ran in Middle Temple Library from February to May 2024 (download original [exhibtion guide](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/files/15297359/exhibtion.guide.pdf). For more information about the Library and what we do, please visit our website.
 
-
+<param ve-iframe
+       src="https://www.middletemple.org.uk/library">
 
