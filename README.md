@@ -346,6 +346,7 @@ What we do know for sure is that the law report, a document close to a thousand 
 
 <param ve-iframe
 label="via GIFER"
+bg="black"
 src="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/c46e4b96-f0fe-4ea5-b908-4d8661ea75e3">
 
 ##
