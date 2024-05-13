@@ -344,8 +344,11 @@ Law reports, as well as other legal documents, can be downloaded from a multitud
 Artificial Intelligence is the next advent. Though AI has been around for quite a while, it is now gaining more traction. Its pitfalls are well documented, especially in regards to hallucinated information, but surely the advantages of AI in the legal world are also on the horizon.
 What we do know for sure is that the law report, a document close to a thousand years in use, will continue to find its importance in the legal world and beyond.
 
-<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1z3DIuh7YElT3er9IOE_iZPvkyOQ6yTQeX3bFB8kKfQ4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
+<param ve-iframe
+label="via GIPHY"
+url="https://giphy.com/gifs/visuals-network-connectivity-7VzgMsB6FLCilwS30v">
 
 ##
 This exhibition ran in Middle Temple Library from February to May 2024 (download original [exhibtion guide](https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/files/15297359/exhibtion.guide.pdf). For more information about the Library and what we do, please visit [our website](https://www.middletemple.org.uk/library).
 
+<param ve-iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1z3DIuh7YElT3er9IOE_iZPvkyOQ6yTQeX3bFB8kKfQ4&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'>
