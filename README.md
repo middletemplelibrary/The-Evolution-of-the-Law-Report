@@ -37,8 +37,6 @@ Their purpose was not to offer precedents in subsequent cases, but rather instru
 It is in these publications and subsequent reprints and translations that we can find the Year Book cases. There is speculation that there may still be manuscript Year Books left in private collections, unbeknownst to the owner.
 
 <param ve-image
-       url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/b2754627-1111-404c-93f7-85d979eb714c">
-<param ve-image
        url="https://github.com/middletemplelibrary/The-Evolution-of-the-Law-Report/assets/110464039/76b5a579-1e69-4602-85c7-c0ef16ffc8b2">
 
 ## Manuscript to Print
